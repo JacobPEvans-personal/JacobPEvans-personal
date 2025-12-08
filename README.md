@@ -96,6 +96,11 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 ### Recent Activity
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#91](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+2. ❌ Merged PR [#89](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+3.  Labeled issue [#90](https://github.com/JacobPEvans/nix/issues/90) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+4. ❗ Opened issue [#90](https://github.com/JacobPEvans/nix/issues/90) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+5. 💪 Opened PR [#89](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
