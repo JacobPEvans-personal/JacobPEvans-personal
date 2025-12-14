@@ -96,11 +96,11 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#104](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-2. ❌ Labeled PR [#104](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-3. 💪 Opened PR [#104](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-4. ❌ Merged PR [#102](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-5. 🗣 Commented on [#103](https://github.com/JacobPEvans/nix/pull/103#issuecomment-3650115083) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+1. 🗣 Commented on [#104](https://github.com/JacobPEvans/nix/pull/104#issuecomment-3650193986) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+2. 💪 Opened PR [#105](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+3. ❌ Labeled PR [#104](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+4. ❌ Labeled PR [#104](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+5. 💪 Opened PR [#104](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
