@@ -121,6 +121,6 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank" rel="noopener noreferrer" aria-label="GitHub streak stats project">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JacobPEvans&theme=github-dark-blue" alt="Jacob's GitHub contribution streak showing total contributions, current streak, and longest streak" />
+    <img src="https://streak-stats.demolab.com/?user=JacobPEvans&theme=github-dark-blue" alt="Jacob's GitHub contribution streak showing total contributions, current streak, and longest streak" />
   </a>
 </p>
