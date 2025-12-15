@@ -1,16 +1,14 @@
-## 👋 Hey, I'm Jacob
-
 <div align="center">
   <a href="https://git.io/typing-svg" aria-label="Typing animation">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Automator;Data+Diver;Professional+Splunker;Toil+Terminator;AI+Enthusiast;Home+Lab+Addict;Recovering+CS+Major;Reef+Keeper" alt="Rotating taglines: Automator, Data Diver, Professional Splunker, Toil Terminator, AI Enthusiast, Home Lab Addict, Recovering CS Major, Reef Keeper" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=48&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=70&lines=Automator;Data+Diver;Professional+Splunker;Toil+Terminator;AI+Enthusiast;Home+Lab+Addict;Recovering+CS+Major;Reef+Keeper" alt="Rotating taglines: Automator, Data Diver, Professional Splunker, Toil Terminator, AI Enthusiast, Home Lab Addict, Recovering CS Major, Reef Keeper" />
   </a>
 </div>
 
-<div align="center">
-  <a href="https://jacobpevans.com" target="_blank" rel="noopener noreferrer">Website</a> •
-  <a href="https://www.linkedin.com/in/JacobPaulEvans/" target="_blank" rel="noopener noreferrer">LinkedIn</a> •
-  <a href="https://github.com/JacobPEvans" target="_blank" rel="noopener noreferrer">GitHub</a>
-</div>
+<p align="center">
+  <a href="https://jacobpevans.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Website-58A6FF?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/JacobPaulEvans/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/JacobPEvans" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
@@ -24,7 +22,9 @@
   <img src="https://raw.githubusercontent.com/JacobPEvans/JacobPEvans/output/github-snake-dark.svg" alt="GitHub contribution graph animation showing a snake eating contributions" />
 </p>
 
-I'm a computer science grad who traded 40 hours a week of writing code for wrangling data pipelines, though I still automate everything I can get my hands on. If you're doing the same task twice, it's time to script it. My work focuses on building reliable, observable systems and eliminating toil so teams can focus on what actually matters.
+$\large\color{#8B949E}\textsf{CS grad turned data pipeline wrangler. If you're doing the same task twice, it's time to script it.}$
+<br>
+$\large\color{#8B949E}\textsf{Building reliable, observable systems and eliminating toil so teams can focus on what matters.}$
 
 ---
 
@@ -78,9 +78,11 @@ Splunk and Cribl consultant specializing in security operations. I architect SIE
 **Outside the Terminal:**
 When I'm not debugging data pipelines, I'm probably over-engineering my home lab or convincing my reef tank that uptime matters.
 
-- **Home Lab:** Proxmox server, UniFi networking, Home Assistant orchestrating everything from leak detection to automated garden watering. The goal is fault-tolerant infrastructure I can rebuild from a single config file.
-- **Aquariums:** 75-gallon saltwater reef (clownfish, corals, pistol shrimp) + freshwater tanks with custom lighting and wave-maker automations. The fish have better SLOs than most production systems.
-- **Adventures:** Scuba diving (San Pedro, Belize is my happy place), snowboarding in Michigan and Colorado, hiking, running
+🏠 **Home Lab:** Proxmox server, UniFi networking, Home Assistant orchestrating everything from leak detection to automated garden watering. The goal is fault-tolerant infrastructure I can rebuild from a single config file.
+
+🐠 **Aquariums:** 75-gallon saltwater reef (clownfish, corals, pistol shrimp) + freshwater tanks with custom lighting and wave-maker automations. The fish have better SLOs than most production systems.
+
+🤿 **Adventures:** Scuba diving (San Pedro, Belize is my happy place), snowboarding in Michigan and Colorado, hiking, running
 
 ### Currently Working On
 - Home lab IaC stack (Terragrunt/Terraform/Ansible)
@@ -119,6 +121,6 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank" rel="noopener noreferrer" aria-label="GitHub streak stats project">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JacobPEvans&theme=github-dark-blue" alt="Jacob's GitHub contribution streak showing total contributions, current streak, and longest streak" />
+    <img src="https://streak-stats.demolab.com/?user=JacobPEvans&theme=github-dark-blue" alt="Jacob's GitHub contribution streak showing total contributions, current streak, and longest streak" />
   </a>
 </p>
