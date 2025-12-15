@@ -98,11 +98,11 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#3](undefined) in [JacobPEvans/python-template](https://github.com/JacobPEvans/python-template)
-2. 🗣 Commented on [#3](https://github.com/JacobPEvans/python-template/pull/3#issuecomment-3656077500) in [JacobPEvans/python-template](https://github.com/JacobPEvans/python-template)
-3. ❌ Merged PR [#111](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-4. ❌ Merged PR [#113](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-5. ❌ Merged PR [#17](undefined) in [JacobPEvans/terraform-proxmox](https://github.com/JacobPEvans/terraform-proxmox)
+1. 🗣 Commented on [#111](https://github.com/JacobPEvans/ai-assistant-instructions/issues/111#issuecomment-3656716622) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+2. 💪 Opened PR [#115](undefined) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+3. ❌ Merged PR [#3](undefined) in [JacobPEvans/python-template](https://github.com/JacobPEvans/python-template)
+4. 🗣 Commented on [#3](https://github.com/JacobPEvans/python-template/pull/3#issuecomment-3656077500) in [JacobPEvans/python-template](https://github.com/JacobPEvans/python-template)
+5. ❌ Merged PR [#111](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
