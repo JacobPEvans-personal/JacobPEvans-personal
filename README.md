@@ -98,11 +98,11 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/JacobPEvans/ai-assistant-instructions/issues/45#issuecomment-3657750311) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-2. 🗣 Commented on [#120](https://github.com/JacobPEvans/ai-assistant-instructions/pull/120#issuecomment-3657747032) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-3. 🔒 Closed issue [#107](https://github.com/JacobPEvans/ai-assistant-instructions/issues/107) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-4. 🗣 Commented on [#107](https://github.com/JacobPEvans/ai-assistant-instructions/issues/107#issuecomment-3657741809) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-5. 🗣 Commented on [#111](https://github.com/JacobPEvans/ai-assistant-instructions/issues/111#issuecomment-3657741141) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+1. 💪 Opened PR [#123](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+2. 💪 Opened PR [#121](undefined) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+3. 🗣 Commented on [#45](https://github.com/JacobPEvans/ai-assistant-instructions/issues/45#issuecomment-3657750311) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+4. 🗣 Commented on [#120](https://github.com/JacobPEvans/ai-assistant-instructions/pull/120#issuecomment-3657747032) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+5. 🔒 Closed issue [#107](https://github.com/JacobPEvans/ai-assistant-instructions/issues/107) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
