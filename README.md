@@ -98,11 +98,11 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#119](undefined) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-2. 🔒 Closed issue [#59](https://github.com/JacobPEvans/ai-assistant-instructions/issues/59) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-3. ❌ Merged PR [#120](undefined) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-4. 🔒 Closed issue [#101](https://github.com/JacobPEvans/ai-assistant-instructions/issues/101) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-5. ❌ Merged PR [#120](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+1. ❌ Closed PR [#116](undefined) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+2. 🗣 Commented on [#116](https://github.com/JacobPEvans/ai-assistant-instructions/pull/116#issuecomment-3659293442) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+3. ❌ Merged PR [#119](undefined) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+4. 🔒 Closed issue [#59](https://github.com/JacobPEvans/ai-assistant-instructions/issues/59) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+5. ❌ Merged PR [#120](undefined) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
