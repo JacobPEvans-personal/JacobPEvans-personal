@@ -98,11 +98,11 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#137](https://github.com/JacobPEvans/nix/issues/137) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-2. ❌ Merged PR [#143](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-3. 🗣 Commented on [#143](https://github.com/JacobPEvans/nix/pull/143#issuecomment-3675660226) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-4. 🔒 Closed issue [#82](https://github.com/JacobPEvans/nix/issues/82) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-5. ❌ Merged PR [#152](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+1.  Labeled issue [#165](https://github.com/JacobPEvans/ai-assistant-instructions/issues/165) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+2.  Labeled issue [#165](https://github.com/JacobPEvans/ai-assistant-instructions/issues/165) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+3.  Labeled issue [#165](https://github.com/JacobPEvans/ai-assistant-instructions/issues/165) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+4. ❗ Opened issue [#165](https://github.com/JacobPEvans/ai-assistant-instructions/issues/165) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+5.  Labeled issue [#164](https://github.com/JacobPEvans/ai-assistant-instructions/issues/164) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
