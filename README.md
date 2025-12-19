@@ -98,11 +98,11 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#148](https://github.com/JacobPEvans/nix/pull/148#issuecomment-3673686675) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-2. 🗣 Commented on [#142](https://github.com/JacobPEvans/ai-assistant-instructions/pull/142#issuecomment-3673675755) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-3. 🗣 Commented on [#143](https://github.com/JacobPEvans/ai-assistant-instructions/pull/143#issuecomment-3673640373) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-4. ❌ Merged PR [#145](undefined) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-5. 🗣 Commented on [#145](https://github.com/JacobPEvans/ai-assistant-instructions/pull/145#issuecomment-3673629810) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+1. ❌ Merged PR [#147](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+2. ❌ Merged PR [#150](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+3. ❌ Labeled PR [#150](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+4. 💪 Opened PR [#150](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+5. 🗣 Commented on [#143](https://github.com/JacobPEvans/nix/pull/143#issuecomment-3673735593) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
