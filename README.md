@@ -98,11 +98,11 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#205](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-2. 🗣 Commented on [#205](https://github.com/JacobPEvans/nix/pull/205#issuecomment-3679596235) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-3. ❌ Closed PR [#204](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-4. 🗣 Commented on [#204](https://github.com/JacobPEvans/nix/pull/204#issuecomment-3679574864) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-5. 💪 Opened PR [#205](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+1. ❌ Merged PR [#172](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+2. 🗣 Commented on [#172](https://github.com/JacobPEvans/nix/pull/172#issuecomment-3679627564) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+3. 💪 Opened PR [#253](undefined) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+4. 💪 Opened PR [#209](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+5. ❗ Opened issue [#208](https://github.com/JacobPEvans/nix/issues/208) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
