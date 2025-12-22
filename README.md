@@ -98,11 +98,11 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1.  Unlabeled issue [#148](https://github.com/JacobPEvans/ai-assistant-instructions/issues/148) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-2.  Unlabeled issue [#149](https://github.com/JacobPEvans/ai-assistant-instructions/issues/149) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-3.  Unlabeled issue [#151](https://github.com/JacobPEvans/ai-assistant-instructions/issues/151) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-4.  Unlabeled issue [#162](https://github.com/JacobPEvans/ai-assistant-instructions/issues/162) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-5.  Unlabeled issue [#163](https://github.com/JacobPEvans/ai-assistant-instructions/issues/163) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+1.  Labeled issue [#37](https://github.com/JacobPEvans/nix/issues/37) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+2.  Unlabeled issue [#37](https://github.com/JacobPEvans/nix/issues/37) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+3.  Unlabeled issue [#39](https://github.com/JacobPEvans/nix/issues/39) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+4.  Labeled issue [#38](https://github.com/JacobPEvans/nix/issues/38) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+5.  Unlabeled issue [#38](https://github.com/JacobPEvans/nix/issues/38) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
