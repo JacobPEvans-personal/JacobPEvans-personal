@@ -98,11 +98,11 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#184](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-2. 🗣 Commented on [#184](https://github.com/JacobPEvans/nix/pull/184#issuecomment-3682073618) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-3. 🗣 Commented on [#195](https://github.com/JacobPEvans/nix/pull/195#issuecomment-3682050910) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-4. 🗣 Commented on [#199](https://github.com/JacobPEvans/nix/pull/199#issuecomment-3682033861) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-5. ❌ Merged PR [#192](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+1.  Unlabeled issue [#148](https://github.com/JacobPEvans/ai-assistant-instructions/issues/148) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+2.  Unlabeled issue [#149](https://github.com/JacobPEvans/ai-assistant-instructions/issues/149) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+3.  Unlabeled issue [#151](https://github.com/JacobPEvans/ai-assistant-instructions/issues/151) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+4.  Unlabeled issue [#162](https://github.com/JacobPEvans/ai-assistant-instructions/issues/162) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+5.  Unlabeled issue [#163](https://github.com/JacobPEvans/ai-assistant-instructions/issues/163) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
