@@ -98,11 +98,11 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1.  Labeled issue [#246](https://github.com/JacobPEvans/nix/issues/246) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-2. ❗ Opened issue [#246](https://github.com/JacobPEvans/nix/issues/246) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-3. 🗣 Commented on [#239](https://github.com/JacobPEvans/ai-assistant-instructions/issues/239#issuecomment-3684245524) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-4.  Labeled issue [#255](https://github.com/JacobPEvans/ai-assistant-instructions/issues/255) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-5.  Labeled issue [#255](https://github.com/JacobPEvans/ai-assistant-instructions/issues/255) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+1. ❗ Opened issue [#3](https://github.com/JacobPEvans/tf-splunk-aws/issues/3) in [JacobPEvans/tf-splunk-aws](https://github.com/JacobPEvans/tf-splunk-aws)
+2. ❗ Opened issue [#2](https://github.com/JacobPEvans/tf-splunk-aws/issues/2) in [JacobPEvans/tf-splunk-aws](https://github.com/JacobPEvans/tf-splunk-aws)
+3.  Labeled issue [#248](https://github.com/JacobPEvans/nix/issues/248) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+4. ❗ Opened issue [#248](https://github.com/JacobPEvans/nix/issues/248) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+5.  Labeled issue [#247](https://github.com/JacobPEvans/nix/issues/247) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
