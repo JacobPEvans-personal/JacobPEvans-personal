@@ -98,11 +98,11 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#271](undefined) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-2. 💪 Opened PR [#261](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-3. 💪 Opened PR [#260](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-4.  Unassigned issue [#6](https://github.com/JacobPEvans/.github/issues/6) in [JacobPEvans/.github](https://github.com/JacobPEvans/.github)
-5.  Assigned issue [#6](https://github.com/JacobPEvans/.github/issues/6) in [JacobPEvans/.github](https://github.com/JacobPEvans/.github)
+1. 🗣 Commented on [#271](https://github.com/JacobPEvans/ai-assistant-instructions/pull/271#issuecomment-3687787816) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+2. 💪 Opened PR [#271](undefined) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+3. 💪 Opened PR [#261](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+4. 💪 Opened PR [#260](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+5.  Unassigned issue [#6](https://github.com/JacobPEvans/.github/issues/6) in [JacobPEvans/.github](https://github.com/JacobPEvans/.github)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
