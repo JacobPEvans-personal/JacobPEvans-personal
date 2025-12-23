@@ -98,11 +98,11 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#256](https://github.com/JacobPEvans/nix/pull/256#issuecomment-3687277371) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-2.  Labeled issue [#261](https://github.com/JacobPEvans/ai-assistant-instructions/issues/261) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-3.  Labeled issue [#260](https://github.com/JacobPEvans/ai-assistant-instructions/issues/260) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-4.  Labeled issue [#258](https://github.com/JacobPEvans/nix/issues/258) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-5.  Labeled issue [#258](https://github.com/JacobPEvans/nix/issues/258) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+1.  Unassigned issue [#6](https://github.com/JacobPEvans/.github/issues/6) in [JacobPEvans/.github](https://github.com/JacobPEvans/.github)
+2.  Assigned issue [#6](https://github.com/JacobPEvans/.github/issues/6) in [JacobPEvans/.github](https://github.com/JacobPEvans/.github)
+3. ❌ Merged PR [#256](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+4. 🗣 Commented on [#256](https://github.com/JacobPEvans/nix/pull/256#issuecomment-3687277371) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+5.  Labeled issue [#261](https://github.com/JacobPEvans/ai-assistant-instructions/issues/261) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
