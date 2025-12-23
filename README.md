@@ -98,11 +98,11 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#257](https://github.com/JacobPEvans/ai-assistant-instructions/pull/257#issuecomment-3686189308) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-2. 🗣 Commented on [#215](https://github.com/JacobPEvans/ai-assistant-instructions/issues/215#issuecomment-3685926431) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-3. 🗣 Commented on [#241](https://github.com/JacobPEvans/ai-assistant-instructions/issues/241#issuecomment-3685907778) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-4. 🗣 Commented on [#217](https://github.com/JacobPEvans/ai-assistant-instructions/issues/217#issuecomment-3685899746) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-5. 🗣 Commented on [#216](https://github.com/JacobPEvans/ai-assistant-instructions/issues/216#issuecomment-3685899651) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+1.  Labeled issue [#268](https://github.com/JacobPEvans/ai-assistant-instructions/issues/268) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+2. ❗ Opened issue [#268](https://github.com/JacobPEvans/ai-assistant-instructions/issues/268) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+3. 🗣 Commented on [#259](https://github.com/JacobPEvans/ai-assistant-instructions/issues/259#issuecomment-3686305577) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+4. 🗣 Commented on [#266](https://github.com/JacobPEvans/ai-assistant-instructions/issues/266#issuecomment-3686302480) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+5. 🗣 Commented on [#265](https://github.com/JacobPEvans/ai-assistant-instructions/issues/265#issuecomment-3686302426) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
