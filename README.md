@@ -98,11 +98,11 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/JacobPEvans/tf-splunk-aws/issues/3) in [JacobPEvans/tf-splunk-aws](https://github.com/JacobPEvans/tf-splunk-aws)
-2. ❗ Opened issue [#2](https://github.com/JacobPEvans/tf-splunk-aws/issues/2) in [JacobPEvans/tf-splunk-aws](https://github.com/JacobPEvans/tf-splunk-aws)
-3.  Labeled issue [#248](https://github.com/JacobPEvans/nix/issues/248) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-4. ❗ Opened issue [#248](https://github.com/JacobPEvans/nix/issues/248) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-5.  Labeled issue [#247](https://github.com/JacobPEvans/nix/issues/247) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+1. 💪 Opened PR [#252](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+2. ❌ Closed PR [#249](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+3. 🗣 Commented on [#249](https://github.com/JacobPEvans/nix/pull/249#issuecomment-3684837687) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+4. 🗣 Commented on [#212](https://github.com/JacobPEvans/nix/issues/212#issuecomment-3684829989) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+5. ❌ Merged PR [#251](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
