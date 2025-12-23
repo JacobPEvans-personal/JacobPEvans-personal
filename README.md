@@ -98,11 +98,11 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1.  Labeled issue [#8](https://github.com/JacobPEvans/.github/issues/8) in [JacobPEvans/.github](https://github.com/JacobPEvans/.github)
+1. 💪 Opened PR [#254](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
 2.  Labeled issue [#8](https://github.com/JacobPEvans/.github/issues/8) in [JacobPEvans/.github](https://github.com/JacobPEvans/.github)
 3.  Labeled issue [#8](https://github.com/JacobPEvans/.github/issues/8) in [JacobPEvans/.github](https://github.com/JacobPEvans/.github)
-4. ❗ Opened issue [#8](https://github.com/JacobPEvans/.github/issues/8) in [JacobPEvans/.github](https://github.com/JacobPEvans/.github)
-5.  Labeled issue [#7](https://github.com/JacobPEvans/.github/issues/7) in [JacobPEvans/.github](https://github.com/JacobPEvans/.github)
+4.  Labeled issue [#8](https://github.com/JacobPEvans/.github/issues/8) in [JacobPEvans/.github](https://github.com/JacobPEvans/.github)
+5. ❗ Opened issue [#8](https://github.com/JacobPEvans/.github/issues/8) in [JacobPEvans/.github](https://github.com/JacobPEvans/.github)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
