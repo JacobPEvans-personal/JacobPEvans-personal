@@ -98,11 +98,11 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#262](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-2.  Labeled issue [#53](https://github.com/JacobPEvans/nix/issues/53) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-3.  Labeled issue [#53](https://github.com/JacobPEvans/nix/issues/53) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-4.  Labeled issue [#53](https://github.com/JacobPEvans/nix/issues/53) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-5.  Labeled issue [#53](https://github.com/JacobPEvans/nix/issues/53) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+1.  Labeled issue [#255](https://github.com/JacobPEvans/nix/issues/255) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+2.  Labeled issue [#255](https://github.com/JacobPEvans/nix/issues/255) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+3.  Labeled issue [#255](https://github.com/JacobPEvans/nix/issues/255) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+4. 🗣 Commented on [#138](https://github.com/JacobPEvans/nix/issues/138#issuecomment-3689952838) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+5.  Labeled issue [#268](https://github.com/JacobPEvans/nix/issues/268) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
