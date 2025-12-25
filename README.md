@@ -98,11 +98,11 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#217](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-2. ❌ Closed PR [#259](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-3.  Labeled issue [#303](https://github.com/JacobPEvans/ai-assistant-instructions/issues/303) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-4.  Labeled issue [#303](https://github.com/JacobPEvans/ai-assistant-instructions/issues/303) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-5.  Labeled issue [#303](https://github.com/JacobPEvans/ai-assistant-instructions/issues/303) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+1. 🗣 Commented on [#268](https://github.com/JacobPEvans/ai-assistant-instructions/issues/268#issuecomment-3690803530) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+2. 🗣 Commented on [#302](https://github.com/JacobPEvans/ai-assistant-instructions/issues/302#issuecomment-3690802889) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+3. 🗣 Commented on [#276](https://github.com/JacobPEvans/ai-assistant-instructions/issues/276#issuecomment-3690802777) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+4. 🗣 Commented on [#282](https://github.com/JacobPEvans/ai-assistant-instructions/issues/282#issuecomment-3690802689) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+5. 🗣 Commented on [#280](https://github.com/JacobPEvans/ai-assistant-instructions/issues/280#issuecomment-3690802597) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
