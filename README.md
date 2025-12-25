@@ -98,11 +98,11 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1.  Labeled issue [#343](https://github.com/JacobPEvans/ai-assistant-instructions/issues/343) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-2.  Labeled issue [#343](https://github.com/JacobPEvans/ai-assistant-instructions/issues/343) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-3.  Labeled issue [#343](https://github.com/JacobPEvans/ai-assistant-instructions/issues/343) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-4. ❗ Opened issue [#343](https://github.com/JacobPEvans/ai-assistant-instructions/issues/343) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-5. 🗣 Commented on [#242](https://github.com/JacobPEvans/ai-assistant-instructions/issues/242#issuecomment-3691453751) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+1.  Labeled issue [#272](https://github.com/JacobPEvans/ai-assistant-instructions/issues/272) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+2.  Unlabeled issue [#272](https://github.com/JacobPEvans/ai-assistant-instructions/issues/272) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+3.  Labeled issue [#347](https://github.com/JacobPEvans/ai-assistant-instructions/issues/347) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+4.  Labeled issue [#347](https://github.com/JacobPEvans/ai-assistant-instructions/issues/347) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+5.  Labeled issue [#347](https://github.com/JacobPEvans/ai-assistant-instructions/issues/347) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
