@@ -98,11 +98,11 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#291](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-2. 💪 Opened PR [#29](undefined) in [JacobPEvans/terraform-proxmox](https://github.com/JacobPEvans/terraform-proxmox)
-3. ❗ Opened issue [#28](https://github.com/JacobPEvans/terraform-proxmox/issues/28) in [JacobPEvans/terraform-proxmox](https://github.com/JacobPEvans/terraform-proxmox)
-4. ❗ Opened issue [#27](https://github.com/JacobPEvans/terraform-proxmox/issues/27) in [JacobPEvans/terraform-proxmox](https://github.com/JacobPEvans/terraform-proxmox)
-5. 🗣 Commented on [#26](https://github.com/JacobPEvans/terraform-proxmox/pull/26#issuecomment-3693157202) in [JacobPEvans/terraform-proxmox](https://github.com/JacobPEvans/terraform-proxmox)
+1. 💪 Opened PR [#294](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+2. ❌ Merged PR [#291](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+3. 💪 Opened PR [#29](undefined) in [JacobPEvans/terraform-proxmox](https://github.com/JacobPEvans/terraform-proxmox)
+4. ❗ Opened issue [#28](https://github.com/JacobPEvans/terraform-proxmox/issues/28) in [JacobPEvans/terraform-proxmox](https://github.com/JacobPEvans/terraform-proxmox)
+5. ❗ Opened issue [#27](https://github.com/JacobPEvans/terraform-proxmox/issues/27) in [JacobPEvans/terraform-proxmox](https://github.com/JacobPEvans/terraform-proxmox)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
