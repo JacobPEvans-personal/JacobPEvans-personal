@@ -98,11 +98,11 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1.  Labeled issue [#295](https://github.com/JacobPEvans/ai-assistant-instructions/issues/295) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-2.  Labeled issue [#295](https://github.com/JacobPEvans/ai-assistant-instructions/issues/295) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-3.  Labeled issue [#295](https://github.com/JacobPEvans/ai-assistant-instructions/issues/295) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-4.  Labeled issue [#3](https://github.com/JacobPEvans/JacobPEvans/issues/3) in [JacobPEvans/JacobPEvans](https://github.com/JacobPEvans/JacobPEvans)
-5. ❗ Opened issue [#3](https://github.com/JacobPEvans/JacobPEvans/issues/3) in [JacobPEvans/JacobPEvans](https://github.com/JacobPEvans/JacobPEvans)
+1. 💪 Opened PR [#26](undefined) in [JacobPEvans/terraform-proxmox](https://github.com/JacobPEvans/terraform-proxmox)
+2. ❌ Merged PR [#292](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+3. 💪 Opened PR [#292](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+4.  Labeled issue [#295](https://github.com/JacobPEvans/ai-assistant-instructions/issues/295) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+5.  Labeled issue [#295](https://github.com/JacobPEvans/ai-assistant-instructions/issues/295) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
