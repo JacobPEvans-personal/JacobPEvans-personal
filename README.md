@@ -98,11 +98,11 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#357](https://github.com/JacobPEvans/ai-assistant-instructions/pull/357#issuecomment-3694151117) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-2. 💪 Opened PR [#357](undefined) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-3. 🔒 Closed issue [#6](https://github.com/JacobPEvans/.github/issues/6) in [JacobPEvans/.github](https://github.com/JacobPEvans/.github)
-4. ❌ Merged PR [#10](undefined) in [JacobPEvans/.github](https://github.com/JacobPEvans/.github)
-5. ❌ Merged PR [#11](undefined) in [JacobPEvans/.github](https://github.com/JacobPEvans/.github)
+1. ❌ Merged PR [#357](undefined) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+2. 🗣 Commented on [#357](https://github.com/JacobPEvans/ai-assistant-instructions/pull/357#issuecomment-3694155276) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+3. 🗣 Commented on [#357](https://github.com/JacobPEvans/ai-assistant-instructions/pull/357#issuecomment-3694152477) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+4. 🗣 Commented on [#357](https://github.com/JacobPEvans/ai-assistant-instructions/pull/357#issuecomment-3694151117) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+5. 💪 Opened PR [#357](undefined) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
