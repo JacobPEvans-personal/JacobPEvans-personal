@@ -98,11 +98,11 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#326](https://github.com/JacobPEvans/ai-assistant-instructions/issues/326#issuecomment-3694174403) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-2. 🔒 Closed issue [#319](https://github.com/JacobPEvans/ai-assistant-instructions/issues/319) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-3. 🗣 Commented on [#322](https://github.com/JacobPEvans/ai-assistant-instructions/issues/322#issuecomment-3694173837) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-4.  Labeled issue [#324](https://github.com/JacobPEvans/ai-assistant-instructions/issues/324) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-5.  Labeled issue [#324](https://github.com/JacobPEvans/ai-assistant-instructions/issues/324) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+1. ❌ Merged PR [#12](undefined) in [JacobPEvans/.github](https://github.com/JacobPEvans/.github)
+2.  Labeled issue [#299](https://github.com/JacobPEvans/ai-assistant-instructions/issues/299) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+3.  Labeled issue [#331](https://github.com/JacobPEvans/ai-assistant-instructions/issues/331) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+4.  Labeled issue [#320](https://github.com/JacobPEvans/ai-assistant-instructions/issues/320) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+5.  Labeled issue [#333](https://github.com/JacobPEvans/ai-assistant-instructions/issues/333) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
