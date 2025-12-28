@@ -98,11 +98,11 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#33](undefined) in [JacobPEvans/terraform-proxmox](https://github.com/JacobPEvans/terraform-proxmox)
-2. 🗣 Commented on [#370](https://github.com/JacobPEvans/ai-assistant-instructions/pull/370#issuecomment-3695061895) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-3. 🗣 Commented on [#370](https://github.com/JacobPEvans/ai-assistant-instructions/pull/370#issuecomment-3695061882) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-4. ❌ Merged PR [#312](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-5. 🗣 Commented on [#370](https://github.com/JacobPEvans/ai-assistant-instructions/pull/370#issuecomment-3695051156) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+1. 🗣 Commented on [#371](https://github.com/JacobPEvans/ai-assistant-instructions/issues/371#issuecomment-3695077234) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+2.  Labeled issue [#371](https://github.com/JacobPEvans/ai-assistant-instructions/issues/371) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+3.  Labeled issue [#371](https://github.com/JacobPEvans/ai-assistant-instructions/issues/371) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+4.  Labeled issue [#371](https://github.com/JacobPEvans/ai-assistant-instructions/issues/371) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+5. ❗ Opened issue [#371](https://github.com/JacobPEvans/ai-assistant-instructions/issues/371) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
