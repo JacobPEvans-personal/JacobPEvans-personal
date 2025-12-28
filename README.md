@@ -98,11 +98,11 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#308](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-2. ❌ Merged PR [#307](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-3. ❌ Merged PR [#31](undefined) in [JacobPEvans/terraform-proxmox](https://github.com/JacobPEvans/terraform-proxmox)
-4. 🗣 Commented on [#307](https://github.com/JacobPEvans/nix/pull/307#issuecomment-3694447128) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-5. 💪 Opened PR [#308](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+1. 🗣 Commented on [#309](https://github.com/JacobPEvans/nix/pull/309#issuecomment-3694475110) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+2. 💪 Opened PR [#310](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+3. 💪 Opened PR [#309](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+4. ❌ Closed PR [#308](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+5. ❌ Merged PR [#307](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
