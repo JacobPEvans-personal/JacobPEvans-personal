@@ -98,11 +98,11 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#319](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-2.  Labeled issue [#318](https://github.com/JacobPEvans/nix/issues/318) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-3.  Labeled issue [#318](https://github.com/JacobPEvans/nix/issues/318) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-4.  Labeled issue [#318](https://github.com/JacobPEvans/nix/issues/318) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-5. ❗ Opened issue [#318](https://github.com/JacobPEvans/nix/issues/318) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+1. 💪 Opened PR [#36](undefined) in [JacobPEvans/terraform-proxmox](https://github.com/JacobPEvans/terraform-proxmox)
+2.  Labeled issue [#374](https://github.com/JacobPEvans/ai-assistant-instructions/issues/374) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+3.  Labeled issue [#374](https://github.com/JacobPEvans/ai-assistant-instructions/issues/374) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+4.  Labeled issue [#374](https://github.com/JacobPEvans/ai-assistant-instructions/issues/374) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+5.  Labeled issue [#374](https://github.com/JacobPEvans/ai-assistant-instructions/issues/374) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
