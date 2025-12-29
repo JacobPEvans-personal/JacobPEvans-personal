@@ -98,11 +98,11 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#314](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-2. 🚀 Published release [v1.0.1](https://github.com/JacobPEvans/ai-assistant-instructions/releases/tag/v1.0.1) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-3. ❌ Closed PR [#35](undefined) in [JacobPEvans/terraform-proxmox](https://github.com/JacobPEvans/terraform-proxmox)
-4. 💪 Opened PR [#35](undefined) in [JacobPEvans/terraform-proxmox](https://github.com/JacobPEvans/terraform-proxmox)
-5. 🗣 Commented on [#371](https://github.com/JacobPEvans/ai-assistant-instructions/issues/371#issuecomment-3695090822) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+1. ❌ Merged PR [#314](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+2. 💪 Opened PR [#314](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+3. 🚀 Published release [v1.0.1](https://github.com/JacobPEvans/ai-assistant-instructions/releases/tag/v1.0.1) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+4. ❌ Closed PR [#35](undefined) in [JacobPEvans/terraform-proxmox](https://github.com/JacobPEvans/terraform-proxmox)
+5. 💪 Opened PR [#35](undefined) in [JacobPEvans/terraform-proxmox](https://github.com/JacobPEvans/terraform-proxmox)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
