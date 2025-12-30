@@ -98,11 +98,11 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#387](https://github.com/JacobPEvans/nix/issues/387) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-2. 💪 Opened PR [#386](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-3.  Labeled issue [#384](https://github.com/JacobPEvans/nix/issues/384) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-4.  Labeled issue [#384](https://github.com/JacobPEvans/nix/issues/384) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-5.  Labeled issue [#384](https://github.com/JacobPEvans/nix/issues/384) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+1. 🔒 Closed issue [#358](https://github.com/JacobPEvans/nix/issues/358) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+2. 🗣 Commented on [#358](https://github.com/JacobPEvans/nix/issues/358#issuecomment-3699444713) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+3. 🔒 Closed issue [#357](https://github.com/JacobPEvans/nix/issues/357) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+4. 🗣 Commented on [#357](https://github.com/JacobPEvans/nix/issues/357#issuecomment-3699444651) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+5. 🔒 Closed issue [#356](https://github.com/JacobPEvans/nix/issues/356) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
