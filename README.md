@@ -98,11 +98,11 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1.  Labeled issue [#379](https://github.com/JacobPEvans/ai-assistant-instructions/issues/379) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-2.  Labeled issue [#379](https://github.com/JacobPEvans/ai-assistant-instructions/issues/379) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-3.  Labeled issue [#379](https://github.com/JacobPEvans/ai-assistant-instructions/issues/379) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-4.  Labeled issue [#379](https://github.com/JacobPEvans/ai-assistant-instructions/issues/379) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
-5. ❗ Opened issue [#379](https://github.com/JacobPEvans/ai-assistant-instructions/issues/379) in [JacobPEvans/ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions)
+1. 🗣 Commented on [#390](https://github.com/JacobPEvans/nix/pull/390#issuecomment-3700497061) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+2. 🗣 Commented on [#390](https://github.com/JacobPEvans/nix/pull/390#issuecomment-3700496915) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+3. 🗣 Commented on [#390](https://github.com/JacobPEvans/nix/pull/390#issuecomment-3700496810) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+4. 🗣 Commented on [#390](https://github.com/JacobPEvans/nix/pull/390#issuecomment-3700496707) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
+5. 💪 Opened PR [#390](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
