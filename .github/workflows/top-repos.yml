@@ -7,8 +7,6 @@ on:
   push:
     branches:
       - main
-  pull_request:
-    types: [opened, synchronize, reopened]
 
 permissions:
   contents: write
@@ -34,7 +32,7 @@ jobs:
 
           # Get all repos and count merged PRs for each
           gh api graphql -f query='
-            query($user: String!, $since: DateTime!) {
+            query($user: String!) {
               user(login: $user) {
                 repositories(first: 100, ownerAffiliations: OWNER, orderBy: {field: UPDATED_AT, direction: DESC}) {
                   nodes {
@@ -52,7 +50,7 @@ jobs:
                 }
               }
             }
-          ' -f user="$GITHUB_USER" -f since="$SINCE_DATE" > /tmp/repos.json
+          ' -f user="$GITHUB_USER" > /tmp/repos.json
 
           # Process and count PRs merged in last 30 days, output top 5
           cat > /tmp/process.py << 'PYTHON_SCRIPT'
