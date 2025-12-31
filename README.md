@@ -164,16 +164,24 @@ I'm deep in the AI rabbit hole and loving every minute of it. Current focus area
   </a>
 </p>
 
-### Recent Activity
+### 3D Contribution Calendar
 
-<!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#7](undefined) in [JacobPEvans/JacobPEvans](https://github.com/JacobPEvans/JacobPEvans)<br>
-2. ❗️ Opened issue [#49](https://github.com/JacobPEvans/terraform-proxmox/issues/49) in [JacobPEvans/terraform-proxmox](https://github.com/JacobPEvans/terraform-proxmox)<br>
-3. ❗️ Opened issue [#48](https://github.com/JacobPEvans/terraform-proxmox/issues/48) in [JacobPEvans/terraform-proxmox](https://github.com/JacobPEvans/terraform-proxmox)<br>
-4. ❗️ Opened issue [#47](https://github.com/JacobPEvans/terraform-proxmox/issues/47) in [JacobPEvans/terraform-proxmox](https://github.com/JacobPEvans/terraform-proxmox)<br>
-5. ❗️ Opened issue [#46](https://github.com/JacobPEvans/terraform-proxmox/issues/46) in [JacobPEvans/terraform-proxmox](https://github.com/JacobPEvans/terraform-proxmox)<br>
-<!--RECENT_ACTIVITY:end-->
+<p align="center">
+  <a href="https://github.com/yoshi389111/github-profile-3d-contrib" target="_blank" rel="noopener noreferrer" aria-label="3D contribution calendar generator">
+    <img src="https://raw.githubusercontent.com/JacobPEvans/JacobPEvans/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D visualization of Jacob's GitHub contribution calendar rendered as an isometric cityscape where building heights represent daily commit counts" />
+  </a>
+</p>
 
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 31st, 2025, 3:31:13 PM
-<!--RECENT_ACTIVITY:last_update_end-->
+### Coding Activity
+
+<p align="center">
+  <a href="https://wakatime.com/@JacobPEvans" target="_blank" rel="noopener noreferrer" aria-label="WakaTime coding activity dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JacobPEvans&theme=github_dark&layout=compact&cache_seconds=14400" alt="WakaTime stats showing Jacob's weekly coding activity breakdown by language, editor, and operating system" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@JacobPEvans" target="_blank" rel="noopener noreferrer" aria-label="WakaTime profile">
+    <img src="https://wakatime.com/badge/user/JacobPEvans.svg?style=for-the-badge" alt="Total coding time tracked by WakaTime since account creation" />
+  </a>
+</p>
