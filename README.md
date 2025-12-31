@@ -138,7 +138,7 @@ I'm deep in the AI rabbit hole and loving every minute of it. Current focus area
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank" rel="noopener noreferrer" aria-label="GitHub streak stats project">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JacobPEvans&theme=github-dark-blue&cache_seconds=14400" alt="GitHub streak stats showing Jacob's total lifetime contributions, current consecutive day streak, and longest streak achieved" />
+    <img src="https://streak-stats.demolab.com/?user=JacobPEvans&theme=github-dark-blue&cache_seconds=14400" alt="GitHub streak stats showing Jacob's total lifetime contributions, current consecutive day streak, and longest streak achieved" />
   </a>
 </p>
 
@@ -177,11 +177,3 @@ I'm deep in the AI rabbit hole and loving every minute of it. Current focus area
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Wednesday, December 31st, 2025, 3:31:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
-
-### 3D Contribution Calendar
-
-<p align="center">
-  <a href="https://github.com/yoshi389111/github-profile-3d-contrib" target="_blank" rel="noopener noreferrer" aria-label="3D contribution calendar generator">
-    <img src="https://raw.githubusercontent.com/JacobPEvans/JacobPEvans/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D visualization of Jacob's GitHub contribution calendar rendered as an isometric cityscape where building heights represent daily commit counts" />
-  </a>
-</p>
