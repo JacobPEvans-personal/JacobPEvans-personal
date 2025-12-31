@@ -2,8 +2,11 @@ name: Update Recent Activity
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Runs every 30 minutes
+    - cron: '0 */4 * * *'  # Runs every 4 hours
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -14,7 +17,7 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       - name: Update README with recent activity
         uses: jamesgeorge007/github-activity-readme@master
