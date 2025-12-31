@@ -15,7 +15,7 @@ echo "Fetching merged PRs for user: ${GITHUB_USER}"
 gh api graphql -f query='
   query($user: String!) {
     user(login: $user) {
-      repositories(first: 100, ownerAffiliations: OWNER, orderBy: {field: UPDATED_AT, direction: DESC}) {
+      repositories(first: 100, ownerAffiliations: OWNER, privacy: PUBLIC, orderBy: {field: UPDATED_AT, direction: DESC}) {
         nodes {
           name
           url
