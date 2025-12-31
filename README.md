@@ -134,6 +134,8 @@ I'm deep in the AI rabbit hole and loving every minute of it. Current focus area
   </a>
 </p>
 
+### Contribution Streak
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank" rel="noopener noreferrer" aria-label="GitHub streak stats project">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JacobPEvans&theme=github-dark-blue" alt="GitHub streak stats showing Jacob's total lifetime contributions, current consecutive day streak, and longest streak achieved" />
