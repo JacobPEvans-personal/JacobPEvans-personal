@@ -19,7 +19,11 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JacobPEvans/JacobPEvans/output/github-snake-dark.svg" alt="GitHub contribution graph animation showing a snake eating contributions" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JacobPEvans/JacobPEvans/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JacobPEvans/JacobPEvans/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/JacobPEvans/JacobPEvans/output/github-snake-dark.svg" alt="Animated snake game visualization that traverses across the GitHub contribution graph, with the snake consuming contribution squares as it moves, leaving a trail of empty cells behind" />
+  </picture>
 </p>
 
 $\large\color{#8B949E}\textsf{CS grad turned data pipeline wrangler. If you're doing the same task twice, it's time to script it.}$
@@ -84,43 +88,68 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 
 🤿 **Adventures:** Scuba diving (San Pedro, Belize is my happy place), snowboarding in Michigan and Colorado, hiking, running
 
-### Currently Working On
-- Home lab IaC stack (Terragrunt/Terraform/Ansible)
-- AI-assisted home automation workflows
-- Claude Code and Gemini CLI projects
-- Network segmentation (obsessively)
+### Currently Building
 
-### Currently Learning
-- LLMs and prompt engineering patterns
-- AI agents and autonomous automation
-- Claude, Gemini, and OpenAI APIs
-- Whatever rabbit hole I fell into this week
+- **Home Lab IaC Stack** — Terragrunt/Terraform/Ansible for reproducible infrastructure
+- **Network Segmentation** — Because flat networks are for the reckless
+- **AI-Powered Home Automation** — Making my house smarter than it needs to be
 
-### Recent Activity
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/JacobPEvans/JacobPEvans/pull/5#issuecomment-3701314557) in [JacobPEvans/JacobPEvans](https://github.com/JacobPEvans/JacobPEvans)
-2. 💪 Opened PR [#5](undefined) in [JacobPEvans/JacobPEvans](https://github.com/JacobPEvans/JacobPEvans)
-3. 💪 Opened PR [#400](undefined) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-4. 🔒 Closed issue [#392](https://github.com/JacobPEvans/nix/issues/392) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-5. 🗣 Commented on [#392](https://github.com/JacobPEvans/nix/issues/392#issuecomment-3701300721) in [JacobPEvans/nix](https://github.com/JacobPEvans/nix)
-<!--END_SECTION:activity-->
+### AI & LLM Obsession
+
+I'm deep in the AI rabbit hole and loving every minute of it. Current focus areas:
+
+- **Prompt Engineering** — Crafting system prompts, building multi-turn workflows, and optimizing for specific use cases
+- **Agentic Workflows** — Building AI systems that reason, plan, and execute multi-step tasks without hand-holding
+- **Claude Code & Gemini CLI** — Daily drivers for AI-assisted development; I've built custom skills, hooks, and integrations for both
+- **Multi-Model Orchestration** — Routing tasks to the right model (Opus for architecture, Sonnet for speed, local models for privacy)
+- **RAG & Context Engineering** — Building retrieval systems that actually work in production
+
+### Activity Graph
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank" rel="noopener noreferrer" aria-label="GitHub activity graph showing contribution patterns over the last 31 days">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JacobPEvans&theme=github-dark&hide_border=true&area=true" alt="Graph visualization of Jacob's GitHub activity over the last 31 days, showing commit frequency and contribution patterns" />
+  </a>
+</p>
 
 ### GitHub Stats
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer" aria-label="GitHub readme stats project">
-    <img src="https://github-readme-stats.vercel.app/api?username=JacobPEvans&show_icons=true&theme=github_dark&rank_icon=github" alt="Jacob's GitHub stats showing total stars, commits, PRs, issues, and contributions" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JacobPEvans&show_icons=true&theme=github_dark&rank_icon=github" alt="Jacob's GitHub stats card displaying total stars earned, total commits, pull requests opened, issues raised, and overall contribution ranking" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer" aria-label="GitHub readme stats project">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobPEvans&layout=compact&theme=github_dark" alt="Jacob's most used programming languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobPEvans&layout=compact&theme=github_dark" alt="Bar chart showing Jacob's most frequently used programming languages across public repositories, with Python, Shell, and Go among the top" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank" rel="noopener noreferrer" aria-label="GitHub streak stats project">
     <img src="https://streak-stats.demolab.com/?user=JacobPEvans&theme=github-dark-blue" alt="Jacob's GitHub contribution streak showing total contributions, current streak, and longest streak" />
+  </a>
+</p>
+
+### 3D Contribution Calendar
+
+<p align="center">
+  <a href="https://github.com/yoshi389111/github-profile-3d-contrib" target="_blank" rel="noopener noreferrer" aria-label="3D contribution calendar generator">
+    <img src="https://raw.githubusercontent.com/JacobPEvans/JacobPEvans/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D visualization of Jacob's GitHub contribution calendar rendered as an isometric cityscape where building heights represent daily commit counts" />
+  </a>
+</p>
+
+### Coding Activity
+
+<p align="center">
+  <a href="https://wakatime.com/@JacobPEvans" target="_blank" rel="noopener noreferrer" aria-label="WakaTime coding activity dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JacobPEvans&theme=github_dark&layout=compact" alt="WakaTime stats showing Jacob's weekly coding activity breakdown by language, editor, and operating system" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@JacobPEvans" target="_blank" rel="noopener noreferrer" aria-label="WakaTime profile">
+    <img src="https://wakatime.com/badge/user/JacobPEvans.svg?style=for-the-badge" alt="Total coding time tracked by WakaTime since account creation" />
   </a>
 </p>
