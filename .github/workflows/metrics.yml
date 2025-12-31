@@ -17,10 +17,17 @@ jobs:
     timeout-minutes: 15
 
     steps:
+      - name: Generate GitHub App Token
+        id: app-token
+        uses: actions/create-github-app-token@v2
+        with:
+          app-id: ${{ vars.GH_APP_ID }}
+          private-key: ${{ secrets.GH_APP_PRIVATE_KEY }}
+
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GH_PAC_METRICS_TOKEN }}
+          token: ${{ steps.app-token.outputs.token }}
           user: JacobPEvans
           template: classic
           base: header, activity, community, repositories
