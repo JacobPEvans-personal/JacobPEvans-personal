@@ -26,9 +26,9 @@
   </picture>
 </p>
 
-$\large\color{#8B949E}\textsf{CS grad turned data pipeline wrangler. If you're doing the same task twice, it's time to script it.}$
+*CS grad turned data pipeline wrangler. If you're doing the same task twice, it's time to script it.*
 <br>
-$\large\color{#8B949E}\textsf{Building reliable, observable systems and eliminating toil so teams can focus on what matters.}$
+*Building reliable, observable systems and eliminating toil so teams can focus on what matters.*
 
 ---
 
