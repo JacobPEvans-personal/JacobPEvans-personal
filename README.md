@@ -104,13 +104,13 @@ I'm deep in the AI rabbit hole and loving every minute of it. Current focus area
 - **Multi-Model Orchestration** — Routing tasks to the right model (Opus for architecture, Sonnet for speed, local models for privacy)
 - **RAG & Context Engineering** — Building retrieval systems that actually work in production
 
-### Top Active Repos (Last 30 Days)
+### GitHub Metrics
 
-| Rank | Repository | Description | Activity | Stars |
-|:----:|------------|-------------|:--------:|:-----:|
-<!--START_SECTION:top-repos-->
-| 🥇 | Loading... | Workflow will populate on first run | - | - |
-<!--END_SECTION:top-repos-->
+<p align="center">
+  <a href="https://github.com/lowlighter/metrics" target="_blank" rel="noopener noreferrer" aria-label="GitHub metrics powered by lowlighter/metrics">
+    <img src="https://raw.githubusercontent.com/JacobPEvans/JacobPEvans/main/metrics.svg" alt="GitHub metrics showing recent activity, languages, coding habits, and contribution patterns" />
+  </a>
+</p>
 
 ### Activity Graph
 
