@@ -94,7 +94,6 @@ When I'm not debugging data pipelines, I'm probably over-engineering my home lab
 - **Network Segmentation** — Because flat networks are for the reckless
 - **AI-Powered Home Automation** — Making my house smarter than it needs to be
 
-<<<<<<< HEAD
 ### AI & LLM Obsession
 
 I'm deep in the AI rabbit hole and loving every minute of it. Current focus areas:
