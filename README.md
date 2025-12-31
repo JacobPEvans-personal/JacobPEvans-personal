@@ -136,7 +136,29 @@ I'm deep in the AI rabbit hole and loving every minute of it. Current focus area
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank" rel="noopener noreferrer" aria-label="GitHub streak stats project">
-    <img src="https://streak-stats.demolab.com/?user=JacobPEvans&theme=github-dark-blue" alt="Jacob's GitHub contribution streak showing total contributions, current streak, and longest streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JacobPEvans&theme=github-dark-blue" alt="GitHub streak stats showing Jacob's total lifetime contributions, current consecutive day streak, and longest streak achieved" />
+  </a>
+</p>
+
+### 3D Contribution Calendar
+
+<p align="center">
+  <a href="https://github.com/yoshi389111/github-profile-3d-contrib" target="_blank" rel="noopener noreferrer" aria-label="3D contribution calendar generator">
+    <img src="https://raw.githubusercontent.com/JacobPEvans/JacobPEvans/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D visualization of Jacob's GitHub contribution calendar rendered as an isometric cityscape where building heights represent daily commit counts" />
+  </a>
+</p>
+
+### Coding Activity
+
+<p align="center">
+  <a href="https://wakatime.com/@JacobPEvans" target="_blank" rel="noopener noreferrer" aria-label="WakaTime coding activity dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JacobPEvans&theme=github_dark&layout=compact" alt="WakaTime stats showing Jacob's weekly coding activity breakdown by language, editor, and operating system" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@JacobPEvans" target="_blank" rel="noopener noreferrer" aria-label="WakaTime profile">
+    <img src="https://wakatime.com/badge/user/JacobPEvans.svg?style=for-the-badge" alt="Total coding time tracked by WakaTime since account creation" />
   </a>
 </p>
 
