@@ -112,36 +112,6 @@ I'm deep in the AI rabbit hole and loving every minute of it. Current focus area
   </a>
 </p>
 
-### Activity Graph
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank" rel="noopener noreferrer" aria-label="GitHub activity graph showing contribution patterns over the last 31 days">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JacobPEvans&theme=github-dark&hide_border=true&area=true&cache_seconds=14400" alt="Graph visualization of Jacob's GitHub activity over the last 31 days, showing commit frequency and contribution patterns" />
-  </a>
-</p>
-
-### GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer" aria-label="GitHub readme stats project">
-    <img src="https://github-readme-stats.vercel.app/api?username=JacobPEvans&show_icons=true&theme=github_dark&rank_icon=github&cache_seconds=14400" alt="Jacob's GitHub stats card displaying total stars earned, total commits, pull requests opened, issues raised, and overall contribution ranking" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer" aria-label="GitHub readme stats project">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobPEvans&layout=compact&theme=github_dark&cache_seconds=14400" alt="Bar chart showing Jacob's most frequently used programming languages across public repositories, with Python, Shell, and Go among the top" />
-  </a>
-</p>
-
-### Contribution Streak
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank" rel="noopener noreferrer" aria-label="GitHub streak stats project">
-    <img src="https://streak-stats.demolab.com/?user=JacobPEvans&theme=github-dark-blue&cache_seconds=14400" alt="GitHub streak stats showing Jacob's total lifetime contributions, current consecutive day streak, and longest streak achieved" />
-  </a>
-</p>
-
 ### 3D Contribution Calendar
 
 <p align="center">
@@ -150,38 +120,3 @@ I'm deep in the AI rabbit hole and loving every minute of it. Current focus area
   </a>
 </p>
 
-### Coding Activity
-
-<p align="center">
-  <a href="https://wakatime.com/@JacobPEvans" target="_blank" rel="noopener noreferrer" aria-label="WakaTime coding activity dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JacobPEvans&theme=github_dark&layout=compact&cache_seconds=14400" alt="WakaTime stats showing Jacob's weekly coding activity breakdown by language, editor, and operating system" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://wakatime.com/@JacobPEvans" target="_blank" rel="noopener noreferrer" aria-label="WakaTime profile">
-    <img src="https://wakatime.com/badge/user/JacobPEvans.svg?style=for-the-badge" alt="Total coding time tracked by WakaTime since account creation" />
-  </a>
-</p>
-
-### 3D Contribution Calendar
-
-<p align="center">
-  <a href="https://github.com/yoshi389111/github-profile-3d-contrib" target="_blank" rel="noopener noreferrer" aria-label="3D contribution calendar generator">
-    <img src="https://raw.githubusercontent.com/JacobPEvans/JacobPEvans/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D visualization of Jacob's GitHub contribution calendar rendered as an isometric cityscape where building heights represent daily commit counts" />
-  </a>
-</p>
-
-### Coding Activity
-
-<p align="center">
-  <a href="https://wakatime.com/@JacobPEvans" target="_blank" rel="noopener noreferrer" aria-label="WakaTime coding activity dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JacobPEvans&theme=github_dark&layout=compact&cache_seconds=14400" alt="WakaTime stats showing Jacob's weekly coding activity breakdown by language, editor, and operating system" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://wakatime.com/@JacobPEvans" target="_blank" rel="noopener noreferrer" aria-label="WakaTime profile">
-    <img src="https://wakatime.com/badge/user/JacobPEvans.svg?style=for-the-badge" alt="Total coding time tracked by WakaTime since account creation" />
-  </a>
-</p>
