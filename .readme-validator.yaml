@@ -1,0 +1,6 @@
+# README validator config for GitHub profile repo
+# This is a profile README, not a project README
+required_sections:
+  - About Me
+optional_sections:
+  - Currently Building

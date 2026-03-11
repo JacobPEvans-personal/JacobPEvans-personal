@@ -55,5 +55,5 @@ jobs:
           # Output
           filename: metrics.svg
           output_action: commit
-          committer_branch: main
+          committer_branch: output
           committer_message: "chore: update metrics"

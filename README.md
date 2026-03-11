@@ -108,7 +108,7 @@ I'm deep in the AI rabbit hole and loving every minute of it. Current focus area
 
 <p align="center">
   <a href="https://github.com/lowlighter/metrics" target="_blank" rel="noopener noreferrer" aria-label="GitHub metrics powered by lowlighter/metrics">
-    <img src="https://raw.githubusercontent.com/JacobPEvans/JacobPEvans/main/metrics.svg" alt="GitHub metrics showing recent activity, languages, coding habits, and contribution patterns" />
+    <img src="https://raw.githubusercontent.com/JacobPEvans/JacobPEvans/output/metrics.svg" alt="GitHub metrics showing recent activity, languages, coding habits, and contribution patterns" />
   </a>
 </p>
 
