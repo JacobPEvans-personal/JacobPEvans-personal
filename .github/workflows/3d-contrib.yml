@@ -11,7 +11,7 @@ on:
     types: [opened, synchronize, reopened]
 
 concurrency:
-  group: output-branch-push
+  group: ${{ github.event_name == 'pull_request' && format('pr-validate-{0}', github.run_id) || 'output-branch-push' }}
   cancel-in-progress: false
 
 permissions:
@@ -53,6 +53,10 @@ jobs:
         if: github.event_name != 'pull_request'
         run: |
           git add profile-3d-contrib/
-          git diff --staged --quiet || git commit -m "chore: update 3D contribution calendar"
-          git pull --rebase origin output
-          git push origin output
+          if git diff --staged --quiet; then
+            echo "No changes to commit, skipping push."
+          else
+            git commit -m "chore: update 3D contribution calendar"
+            git pull --rebase origin output
+            git push origin output
+          fi
