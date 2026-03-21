@@ -1,0 +1,134 @@
+# CI Gate - Conditional Required Checks
+#
+# FRAMEWORK: Merge Gatekeeper Pattern
+# ====================================
+# Solves: "Required checks that only run when relevant files change"
+#
+# Problem: GitHub branch protection only supports "always required" or "not required"
+#          Path-filtered workflows that don't run = pending forever = blocks merge
+#
+# Solution: Single workflow that:
+# 1. Always triggers on ALL PRs (no path filters at workflow level)
+# 2. Detects which file categories changed
+# 3. Calls reusable workflows conditionally (skipped = success)
+# 4. Final "Merge Gate" job aggregates all results
+#
+# Branch Protection: Set ONLY "Merge Gate" as required check
+#
+# Adding New Checks:
+# 1. Create reusable workflow: _your-check.yml with `on: workflow_call`
+# 2. Add filter pattern under `changes.steps.filter.with.filters`
+# 3. Add job that calls the reusable workflow with appropriate `if:` condition
+# 4. Add job name to `gate.needs` array and `allowed-skips`
+
+name: CI Gate
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+  pull-requests: read
+
+jobs:
+  # ==========================================================================
+  # CHANGE DETECTION
+  # ==========================================================================
+  changes:
+    name: Detect Changes
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: read
+    outputs:
+      markdown: ${{ steps.filter.outputs.markdown }}
+      workflows: ${{ steps.filter.outputs.workflows }}
+      config: ${{ steps.filter.outputs.config }}
+    steps:
+      - uses: actions/checkout@v6
+      - uses: dorny/paths-filter@v4
+        id: filter
+        with:
+          filters: |
+            markdown:
+              - '**.md'
+              - '.markdownlint*'
+            workflows:
+              - '.github/workflows/**'
+            config:
+              - '*.yaml'
+              - '*.yml'
+              - '*.json'
+              - '!.github/**'
+
+  # ==========================================================================
+  # CONDITIONAL CHECKS (call reusable workflows)
+  # ==========================================================================
+  markdown-lint:
+    name: Markdown Lint
+    needs: changes
+    if: needs.changes.outputs.markdown == 'true'
+    uses: JacobPEvans/.github/.github/workflows/_markdown-lint.yml@main
+
+  file-size:
+    name: File Size
+    needs: changes
+    if: needs.changes.outputs.markdown == 'true' || needs.changes.outputs.config == 'true'
+    uses: JacobPEvans/.github/.github/workflows/_file-size.yml@main
+
+  readme-sections:
+    name: README Sections
+    needs: changes
+    if: needs.changes.outputs.markdown == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Validate required sections
+        run: |
+          if [ ! -f ".readme-validator.yaml" ]; then
+            echo "No .readme-validator.yaml found, skipping section validation"
+            exit 0
+          fi
+
+          errors=0
+
+          # Parse required sections from config
+          while IFS= read -r section; do
+            [ -z "$section" ] && continue
+            if ! grep -q "^### ${section}$" README.md; then
+              echo "::error::Required section missing: '### ${section}'"
+              ((errors++))
+            else
+              echo "Found required section: '### ${section}'"
+            fi
+          done < <(yq '.required_sections[]' .readme-validator.yaml 2>/dev/null)
+
+          if [ "$errors" -gt 0 ]; then
+            echo "README validation failed: ${errors} missing section(s)"
+            exit 1
+          fi
+
+          echo "All required sections present"
+
+  # ==========================================================================
+  # MERGE GATE - The ONLY required check in branch protection
+  # ==========================================================================
+  gate:
+    name: Merge Gate
+    needs: [changes, markdown-lint, file-size, readme-sections]
+    if: ${{ !cancelled() }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check all results
+        uses: re-actors/alls-green@release/v1
+        with:
+          allowed-skips: markdown-lint, file-size, readme-sections
+          jobs: ${{ toJSON(needs) }}
