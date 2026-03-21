@@ -15,11 +15,9 @@ config:
   # - Centered badge rows (<p align="center">)
   # - Dark/light mode images (<picture><source>)
   # - Typing animation banners (<div>, <img>)
-  # - Line breaks between repo links (<br>)
   MD033:
     allowed_elements:
       - a
-      - br
       - div
       - img
       - p

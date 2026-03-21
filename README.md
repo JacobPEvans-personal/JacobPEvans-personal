@@ -116,20 +116,20 @@ When I'm not wiring up AI agents or debugging data pipelines, I'm probably over-
 ### What I'm Building
 
 **AI Development Pipeline** — Multi-model orchestration routing tasks to Claude, Gemini, Copilot, and local models. AI handles implementation, testing, and code review. Humans create issues and approve final PRs — everything in between is automated.
-<br>[ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions) ・ [claude-code-plugins](https://github.com/JacobPEvans/claude-code-plugins) ・ [ai-workflows](https://github.com/JacobPEvans/ai-workflows)
+[ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions) ・ [claude-code-plugins](https://github.com/JacobPEvans/claude-code-plugins) ・ [ai-workflows](https://github.com/JacobPEvans/ai-workflows)
 
 **AI Observability** — OTEL telemetry pipeline tracking every AI coding interaction: tools to Cribl Edge to Cribl Stream to Splunk. Custom Studio dashboards for usage, performance, and cost visibility across Claude, Copilot, Gemini, and VS Code.
-<br>[VisiCore_App_for_AI_Observability](https://github.com/JacobPEvans/VisiCore_App_for_AI_Observability) ・ [cc-edge-copilot-otel](https://github.com/JacobPEvans/cc-edge-copilot-otel) ・ [cc-edge-vscode-io](https://github.com/JacobPEvans/cc-edge-vscode-io)
+[VisiCore_App_for_AI_Observability](https://github.com/JacobPEvans/VisiCore_App_for_AI_Observability) ・ [cc-edge-copilot-otel](https://github.com/JacobPEvans/cc-edge-copilot-otel) ・ [cc-edge-vscode-io](https://github.com/JacobPEvans/cc-edge-vscode-io)
 
 **Nix Reproducible Everything** — Fully declarative infrastructure: [nix-darwin](https://github.com/JacobPEvans/nix-darwin) for macOS system config, [nix-ai](https://github.com/JacobPEvans/nix-ai) for AI tooling and local model management, [nix-home](https://github.com/JacobPEvans/nix-home) for dev environment, and [nix-devenv](https://github.com/JacobPEvans/nix-devenv) for per-project shells. One command to recreate any machine from scratch.
 
 **Local LLM Inference** — MLX-native models on Apple Silicon for ~25% faster local inference versus Ollama. Currently running on a 128GB M4 MacBook Pro — next stop: M5 Max Mac Studio with 128GB+ unified memory for a direct memory access inference cluster.
-<br>[nix-ai](https://github.com/JacobPEvans/nix-ai) (MLX module)
+[nix-ai](https://github.com/JacobPEvans/nix-ai) (MLX module)
 
 **RAG & Context Engineering** — Building retrieval systems that actually work in production. Qdrant vector database running on the Proxmox home lab, feeding context-aware AI workflows with codebase knowledge, documentation, and operational data.
 
 **Home Lab IaC** — Proxmox cluster provisioned with Terraform, VMs and apps configured with Ansible, shared GitHub workflows and Renovate presets standardized across 30+ repos, secrets-sync for cross-repo credential distribution, and release-please for automated versioning.
-<br>[terraform-proxmox](https://github.com/JacobPEvans/terraform-proxmox) ・ [ansible-proxmox](https://github.com/JacobPEvans/ansible-proxmox) ・ [.github](https://github.com/JacobPEvans/.github) ・ [secrets-sync](https://github.com/JacobPEvans/secrets-sync)
+[terraform-proxmox](https://github.com/JacobPEvans/terraform-proxmox) ・ [ansible-proxmox](https://github.com/JacobPEvans/ansible-proxmox) ・ [.github](https://github.com/JacobPEvans/.github) ・ [secrets-sync](https://github.com/JacobPEvans/secrets-sync)
 
 ### GitHub Metrics
 
