@@ -27,7 +27,7 @@
 </p>
 
 *Building the pipeline where humans set direction and AI handles the rest.*
-<br>
+
 *Splunk/Cribl consultant by day. Automating myself out of a job by night.*
 
 ---
