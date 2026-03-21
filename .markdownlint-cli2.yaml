@@ -1,0 +1,41 @@
+# Profile README markdownlint overrides
+# Extends org defaults with exceptions for GitHub profile README patterns.
+# Profile READMEs require inline HTML for centered layouts, dark/light mode
+# images, and badge rows — standard markdown can't express these.
+config:
+  MD013:
+    line_length: 160
+    heading_line_length: 80
+    code_block_line_length: 80
+    tables: true
+    strict: true
+
+  # Allow duplicate headings in different sections
+  MD024:
+    siblings_only: true
+
+  # Profile READMEs require inline HTML for:
+  # - Centered badge rows (<p align="center">)
+  # - Dark/light mode images (<picture><source>)
+  # - Typing animation banners (<div>, <img>)
+  # - Line breaks between repo links (<br>)
+  MD033:
+    allowed_elements:
+      - a
+      - br
+      - div
+      - img
+      - p
+      - picture
+      - source
+
+  # First line is a <div> for the centered typing banner, not a heading
+  MD041: false
+
+# Per-file overrides
+overrides:
+  - files:
+      - "README.md"
+    config:
+      # Badge URLs and image alt text produce long lines unavoidably
+      MD013: false
