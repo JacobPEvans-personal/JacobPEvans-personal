@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg" aria-label="Typing animation">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=48&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=70&lines=AI+Pipeline+Architect;Multi-Model+Orchestrator;Automator;Toil+Terminator;Nix+Evangelist;Home+Lab+Addict;Recovering+CS+Major;Reef+Keeper" alt="Rotating taglines: AI Pipeline Architect, Multi-Model Orchestrator, Automator, Toil Terminator, Nix Evangelist, Home Lab Addict, Recovering CS Major, Reef Keeper" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=48&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=70&lines=AI+Architect;Multi-Model+Orchestrator;Automator;Data+Diver;Toil+Terminator;Nix+Evangelist;Home+Lab+Addict;Recovering+CS+Major;Reef+Keeper" alt="Rotating taglines: AI Architect, Multi-Model Orchestrator, Automator, Data Diver, Toil Terminator, Nix Evangelist, Home Lab Addict, Recovering CS Major, Reef Keeper" />
   </a>
 </div>
 
@@ -28,7 +28,7 @@
 
 *Building the pipeline where humans set direction and AI handles the rest.*
 <br>
-*Splunk/Cribl consultant by day. Automating myself out of every repetitive task by night.*
+*Splunk/Cribl consultant by day. Automating myself out of a job by night.*
 
 ---
 
@@ -105,9 +105,9 @@ flowchart LR
 Splunk and Cribl consultant specializing in security operations and AI-automated development pipelines. I architect SIEM platforms, build detection pipelines, optimize data flows, and orchestrate multi-model AI systems that turn GitHub Issues into merge-ready PRs. My specialty? Cutting ingest volume by 30-50% while actually improving security posture.
 
 **Outside the Terminal:**
-When I'm not wiring up AI agents or debugging data pipelines, I'm probably over-engineering my home lab or convincing my reef tank that uptime matters.
+When I'm not wiring up AI agents or debugging data pipelines, I'm probably over-engineering my home lab or convincing my fish that uptime matters.
 
-**Home Lab:** Proxmox cluster, UniFi networking, Home Assistant, Splunk, Cribl — all managed with Terraform, Ansible, and a four-flake Nix ecosystem. The goal is fault-tolerant infrastructure I can rebuild from a single `nix build`.
+**Home Lab:** Proxmox cluster, UniFi networking, Home Assistant, Splunk, Cribl — all managed with Terraform, Ansible, and Nix. The goal is fault-tolerant infrastructure I can rebuild from a single `nix build`.
 
 **Aquariums:** 75-gallon saltwater reef (clownfish, corals, pistol shrimp) + freshwater tanks with custom lighting and wave-maker automations. The fish have better SLOs than most production systems.
 
@@ -119,12 +119,14 @@ When I'm not wiring up AI agents or debugging data pipelines, I'm probably over-
 <br>[ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions) ・ [claude-code-plugins](https://github.com/JacobPEvans/claude-code-plugins) ・ [ai-workflows](https://github.com/JacobPEvans/ai-workflows)
 
 **AI Observability** — OTEL telemetry pipeline tracking every AI coding interaction: tools to Cribl Edge to Cribl Stream to Splunk. Custom Studio dashboards for usage, performance, and cost visibility across Claude, Copilot, Gemini, and VS Code.
-<br>[VisiCore_App_for_AI_Observability](https://github.com/JacobPEvans/VisiCore_App_for_AI_Observability) ・ [cc-edge-claude-code-otel](https://github.com/JacobPEvans/cc-edge-claude-code-otel) ・ [cc-edge-copilot-otel](https://github.com/JacobPEvans/cc-edge-copilot-otel) ・ [cc-edge-vscode-io](https://github.com/JacobPEvans/cc-edge-vscode-io)
+<br>[VisiCore_App_for_AI_Observability](https://github.com/JacobPEvans/VisiCore_App_for_AI_Observability) ・ [cc-edge-copilot-otel](https://github.com/JacobPEvans/cc-edge-copilot-otel) ・ [cc-edge-vscode-io](https://github.com/JacobPEvans/cc-edge-vscode-io)
 
-**Nix Reproducible Everything** — Four-flake ecosystem: macOS system config ([nix-darwin](https://github.com/JacobPEvans/nix-darwin)), AI tools ([nix-ai](https://github.com/JacobPEvans/nix-ai)), dev environment ([nix-home](https://github.com/JacobPEvans/nix-home)), and per-project shells ([nix-devenv](https://github.com/JacobPEvans/nix-devenv)). One command to recreate any machine from scratch.
+**Nix Reproducible Everything** — Fully declarative infrastructure: [nix-darwin](https://github.com/JacobPEvans/nix-darwin) for macOS system config, [nix-ai](https://github.com/JacobPEvans/nix-ai) for AI tooling and local model management, [nix-home](https://github.com/JacobPEvans/nix-home) for dev environment, and [nix-devenv](https://github.com/JacobPEvans/nix-devenv) for per-project shells. One command to recreate any machine from scratch.
 
 **Local LLM Inference** — MLX-native models on Apple Silicon for ~25% faster local inference versus Ollama. Currently running on a 128GB M4 MacBook Pro — next stop: M5 Max Mac Studio with 128GB+ unified memory for a direct memory access inference cluster.
 <br>[nix-ai](https://github.com/JacobPEvans/nix-ai) (MLX module)
+
+**RAG & Context Engineering** — Building retrieval systems that actually work in production. Qdrant vector database running on the Proxmox home lab, feeding context-aware AI workflows with codebase knowledge, documentation, and operational data.
 
 **Home Lab IaC** — Proxmox cluster provisioned with Terraform, VMs and apps configured with Ansible, shared GitHub workflows and Renovate presets standardized across 30+ repos, secrets-sync for cross-repo credential distribution, and release-please for automated versioning.
 <br>[terraform-proxmox](https://github.com/JacobPEvans/terraform-proxmox) ・ [ansible-proxmox](https://github.com/JacobPEvans/ansible-proxmox) ・ [.github](https://github.com/JacobPEvans/.github) ・ [secrets-sync](https://github.com/JacobPEvans/secrets-sync)
