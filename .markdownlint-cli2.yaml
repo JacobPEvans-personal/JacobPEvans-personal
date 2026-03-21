@@ -3,12 +3,9 @@
 # Profile READMEs require inline HTML for centered layouts, dark/light mode
 # images, and badge rows — standard markdown can't express these.
 config:
-  MD013:
-    line_length: 160
-    heading_line_length: 80
-    code_block_line_length: 80
-    tables: true
-    strict: true
+  # Badge URLs and image alt text produce unavoidably long lines.
+  # This repo has a single markdown file (README.md) so disable globally.
+  MD013: false
 
   # Allow duplicate headings in different sections
   MD024:
@@ -31,11 +28,3 @@ config:
 
   # First line is a <div> for the centered typing banner, not a heading
   MD041: false
-
-# Per-file overrides
-overrides:
-  - files:
-      - "README.md"
-    config:
-      # Badge URLs and image alt text produce long lines unavoidably
-      MD013: false
