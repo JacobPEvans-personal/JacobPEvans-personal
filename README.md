@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg" aria-label="Typing animation">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=48&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=70&lines=AI+Architect;Multi-Model+Orchestrator;Automator;Data+Diver;Toil+Terminator;Nix+Evangelist;Home+Lab+Addict;Recovering+CS+Major;Reef+Keeper" alt="Rotating taglines: AI Architect, Multi-Model Orchestrator, Automator, Data Diver, Toil Terminator, Nix Evangelist, Home Lab Addict, Recovering CS Major, Reef Keeper" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=48&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=70&lines=Claude+Whisperer;Model+Wrangler;Automator;Data+Diver;Toil+Terminator;Nix+Evangelist;Home+Lab+Addict;Recovering+CS+Major;Reef+Keeper" alt="Rotating taglines: Claude Whisperer, Model Wrangler, Automator, Data Diver, Toil Terminator, Nix Evangelist, Home Lab Addict, Recovering CS Major, Reef Keeper" />
   </a>
 </div>
 
@@ -66,35 +66,29 @@
 
 ### The Mission
 
-> **Full end-to-end AI-automated development.** Humans set direction — roadmaps, architecture, priorities. AI agents handle implementation, testing, and review. Humans return for final approval. Open and closed source models, each doing what they do best.
+The goal: file a GitHub Issue, grab coffee, come back to a PR that's been implemented, tested, and reviewed by multiple AI models — just waiting for a thumbs up. Not fully there yet, but close enough to be dangerous.
 
-**1. Zero-Touch Development** — Human intent to deployed code. AI handles implementation, testing, and review. Humans approve the final PR.
-
-**2. Model-Agnostic Orchestration** — Route every task to the right model. Frontier models for architecture, local MLX for speed, multi-model consensus for critical decisions.
-
-**3. Full-Stack Observability** — Every AI action traced end-to-end. OTEL pipelines from coding tools through Cribl to Splunk dashboards.
-
-**4. Reproducible Everything** — Infrastructure, environments, tooling, and AI configurations declared in code. Nix flakes, Terraform, Ansible — rebuild anything from scratch.
+Humans decide *what* to build. AI agents handle the *how*. Automation runs the boring parts. A human gives the final sign-off. Claude, Gemini, Copilot, and local MLX models each do what they're best at — the right model for the right job instead of throwing everything at one.
 
 ```mermaid
 flowchart LR
     subgraph Human["Human"]
         direction TB
-        H1["Roadmap & Vision"]
+        H1["Roadmap"]
         H2["GitHub Issues"]
-        H3["PR Approval"]
+        H3["PR Review"]
     end
     subgraph AI["AI Agents"]
         direction TB
         A1["Claude / Gemini / Copilot"]
-        A2["Implementation"]
-        A3["Multi-Model Code Review"]
+        A2["Code"]
+        A3["AI Code Review"]
     end
     subgraph Auto["Automation"]
         direction TB
         T1["CI / Testing"]
-        T2["Validation & Lint"]
-        T3["Release & Deploy"]
+        T2["Lint & Validate"]
+        T3["Ship It"]
     end
     H1 --> H2 --> A1 --> A2 --> T1 --> T2 --> A3 --> H3 --> T3
 ```
@@ -102,7 +96,7 @@ flowchart LR
 ### About Me
 
 **On the Clock:**
-Splunk and Cribl consultant specializing in security operations and AI-automated development pipelines. I architect SIEM platforms, build detection pipelines, optimize data flows, and orchestrate multi-model AI systems that turn GitHub Issues into merge-ready PRs. My specialty? Cutting ingest volume by 30-50% while actually improving security posture.
+Splunk and Cribl consultant specializing in security operations. I architect SIEM platforms, build detection pipelines, and optimize data flows. My specialty? Cutting ingest volume by 30-50% while actually improving security posture.
 
 **Outside the Terminal:**
 When I'm not wiring up AI agents or debugging data pipelines, I'm probably over-engineering my home lab or convincing my fish that uptime matters.
@@ -111,24 +105,24 @@ When I'm not wiring up AI agents or debugging data pipelines, I'm probably over-
 
 **Aquariums:** 75-gallon saltwater reef (clownfish, corals, pistol shrimp) + freshwater tanks with custom lighting and wave-maker automations. The fish have better SLOs than most production systems.
 
-**Adventures:** Scuba diving (San Pedro, Belize is my happy place), snowboarding in Michigan and Colorado, hiking, running
+**Adventures:** Scuba diving (San Pedro, Belize is my happy place), snowboarding in Michigan and Colorado, hiking, running.
 
 ### What I'm Building
 
-**AI Development Pipeline** — Multi-model orchestration routing tasks to Claude, Gemini, Copilot, and local models. AI handles implementation, testing, and code review. Humans create issues and approve final PRs — everything in between is automated.
+**AI Development Pipeline** — I point Claude, Gemini, and Copilot at GitHub Issues and they figure out the rest. Multi-model routing with local MLX fallback for when I don't want to burn cloud tokens on a typo fix.
 [ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions) ・ [claude-code-plugins](https://github.com/JacobPEvans/claude-code-plugins) ・ [ai-workflows](https://github.com/JacobPEvans/ai-workflows)
 
-**AI Observability** — OTEL telemetry pipeline tracking every AI coding interaction: tools to Cribl Edge to Cribl Stream to Splunk. Custom Studio dashboards for usage, performance, and cost visibility across Claude, Copilot, Gemini, and VS Code.
+**AI Observability** — OTEL pipeline tracking every AI coding interaction from IDE to Splunk. If an AI agent touches code, I know about it — usage, cost, performance, all of it.
 [VisiCore_App_for_AI_Observability](https://github.com/JacobPEvans/VisiCore_App_for_AI_Observability) ・ [cc-edge-copilot-otel](https://github.com/JacobPEvans/cc-edge-copilot-otel) ・ [cc-edge-vscode-io](https://github.com/JacobPEvans/cc-edge-vscode-io)
 
-**Nix Reproducible Everything** — Fully declarative infrastructure: [nix-darwin](https://github.com/JacobPEvans/nix-darwin) for macOS system config, [nix-ai](https://github.com/JacobPEvans/nix-ai) for AI tooling and local model management, [nix-home](https://github.com/JacobPEvans/nix-home) for dev environment, and [nix-devenv](https://github.com/JacobPEvans/nix-devenv) for per-project shells. One command to recreate any machine from scratch.
+**Nix Reproducible Everything** — Four repos, one goal: `nix build` and walk away. [nix-darwin](https://github.com/JacobPEvans/nix-darwin) for macOS, [nix-ai](https://github.com/JacobPEvans/nix-ai) for AI tooling, [nix-home](https://github.com/JacobPEvans/nix-home) for dev environment, [nix-devenv](https://github.com/JacobPEvans/nix-devenv) for project shells.
 
-**Local LLM Inference** — MLX-native models on Apple Silicon for ~25% faster local inference versus Ollama. Currently running on a 128GB M4 MacBook Pro — next stop: M5 Max Mac Studio with 128GB+ unified memory for a direct memory access inference cluster.
+**Local LLM Inference** — Running MLX-native models on Apple Silicon because why pay for tokens when you have 128GB of unified memory? Currently on M4 MacBook Pro, eyeing the Mac Studio.
 [nix-ai](https://github.com/JacobPEvans/nix-ai) (MLX module)
 
-**RAG & Context Engineering** — Building retrieval systems that actually work in production. Qdrant vector database running on the Proxmox home lab, feeding context-aware AI workflows with codebase knowledge, documentation, and operational data.
+**RAG & Context Engineering** — Qdrant on the home lab feeding context into AI workflows. The goal: AI that actually knows your codebase instead of hallucinating import paths.
 
-**Home Lab IaC** — Proxmox cluster provisioned with Terraform, VMs and apps configured with Ansible, shared GitHub workflows and Renovate presets standardized across 30+ repos, secrets-sync for cross-repo credential distribution, and release-please for automated versioning.
+**Home Lab IaC** — Proxmox cluster, 30+ repos, everything in code. Terraform provisions, Ansible configures, Renovate keeps deps fresh, release-please handles versions.
 [terraform-proxmox](https://github.com/JacobPEvans/terraform-proxmox) ・ [ansible-proxmox](https://github.com/JacobPEvans/ansible-proxmox) ・ [.github](https://github.com/JacobPEvans/.github) ・ [secrets-sync](https://github.com/JacobPEvans/secrets-sync)
 
 ### GitHub Metrics
