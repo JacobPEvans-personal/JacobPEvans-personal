@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg" aria-label="Typing animation">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=48&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=70&lines=Automator;Data+Diver;Professional+Splunker;Toil+Terminator;AI+Enthusiast;Home+Lab+Addict;Recovering+CS+Major;Reef+Keeper" alt="Rotating taglines: Automator, Data Diver, Professional Splunker, Toil Terminator, AI Enthusiast, Home Lab Addict, Recovering CS Major, Reef Keeper" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=48&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=70&lines=Claude+Whisperer;Model+Wrangler;Automator;Data+Diver;Toil+Terminator;Nix+Evangelist;Home+Lab+Addict;Recovering+CS+Major;Reef+Keeper" alt="Rotating taglines: Claude Whisperer, Model Wrangler, Automator, Data Diver, Toil Terminator, Nix Evangelist, Home Lab Addict, Recovering CS Major, Reef Keeper" />
   </a>
 </div>
 
@@ -26,83 +26,104 @@
   </picture>
 </p>
 
-*CS grad turned data pipeline wrangler. If you're doing the same task twice, it's time to script it.*
-<br>
-*Building reliable, observable systems and eliminating toil so teams can focus on what matters.*
+*Building the pipeline where humans set direction and AI handles the rest.*
+
+*Splunk/Cribl consultant by day. Automating myself out of a job by night.*
 
 ---
+
+<p align="center">
+  <a href="https://github.com/JacobPEvans/ai-assistant-instructions" target="_blank" rel="noopener noreferrer" aria-label="AI assistant instructions repo">
+    <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  </a>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama" />
+  <img src="https://img.shields.io/badge/MLX-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MLX" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-4B5563?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nix,terraform,ansible,docker,kubernetes,githubactions,git,github&perline=8" alt="Infrastructure and DevOps: Nix, Terraform, Ansible, Docker, Kubernetes, GitHub Actions, Git, GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,linux,apple&perline=6" alt="Cloud and platforms: AWS, GCP, Azure, Cloudflare, Linux, macOS" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,bash,go,ts,js&perline=5" alt="Languages: Python, Bash, Go, TypeScript, JavaScript" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
   <img src="https://img.shields.io/badge/Cribl-00B4E6?style=for-the-badge&logoColor=white" alt="Cribl" />
-  <img src="https://img.shields.io/badge/SOAR-FF6B35?style=for-the-badge&logoColor=white" alt="SOAR" />
-  <a href="https://github.com/JacobPEvans/ai-assistant-instructions" target="_blank" rel="noopener noreferrer" aria-label="My Claude AI assistant instructions">
-    <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  </a>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare&perline=4" alt="Cloud platforms: AWS, GCP, Azure, Cloudflare" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,apple,windows,ubuntu,vscode,vim&perline=6" alt="Operating systems and editors: Linux, macOS, Windows, Ubuntu, VS Code, Vim" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,bash,powershell,go,js,ts,java,c,cpp&perline=9" alt="Programming languages: Python, Bash, PowerShell, Go, JavaScript, TypeScript, Java, C, C++" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,terraform,ansible,githubactions,jenkins,nix,postman&perline=10" alt="DevOps tools: Git, GitHub, Docker, Kubernetes, Terraform, Ansible, GitHub Actions, Jenkins, Nix, Postman" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Active_Directory-0052CC?style=for-the-badge&logoColor=white" alt="Active Directory" />
-  <img src="https://img.shields.io/badge/Azure_AD-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AD / Entra ID" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
-  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog" />
-  <img src="https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white" alt="Home Assistant" />
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+  <img src="https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white" alt="Home Assistant" />
 </p>
 
 ---
 
+### The Mission
+
+The goal: file a GitHub Issue, grab coffee, come back to a PR that's been implemented, tested, and reviewed by multiple AI models — just waiting for a thumbs up. Not fully there yet, but close enough to be dangerous.
+
+Humans decide *what* to build. AI agents handle the *how*. Automation runs the boring parts. A human gives the final sign-off. Claude, Gemini, Copilot, and local MLX models each do what they're best at — the right model for the right job instead of throwing everything at one.
+
+```mermaid
+flowchart LR
+    subgraph Human["Human"]
+        direction TB
+        H1["Roadmap"]
+        H2["GitHub Issues"]
+        H3["PR Review"]
+    end
+    subgraph AI["AI Agents"]
+        direction TB
+        A1["Claude / Gemini / Copilot"]
+        A2["Code"]
+        A3["AI Code Review"]
+    end
+    subgraph Auto["Automation"]
+        direction TB
+        T1["CI / Testing"]
+        T2["Lint & Validate"]
+        T3["Ship It"]
+    end
+    H1 --> H2 --> A1 --> A2 --> T1 --> T2 --> A3 --> H3 --> T3
+```
+
 ### About Me
 
 **On the Clock:**
-Splunk and Cribl consultant specializing in security operations. I architect SIEM platforms, build detection pipelines, and optimize data flows with a focus on reliability and cost efficiency. My specialty? Cutting ingest volume by 30-50% while actually improving security posture.
+Splunk and Cribl consultant specializing in security operations. I architect SIEM platforms, build detection pipelines, and optimize data flows. My specialty? Cutting ingest volume by 30-50% while actually improving security posture.
 
 **Outside the Terminal:**
-When I'm not debugging data pipelines, I'm probably over-engineering my home lab or convincing my reef tank that uptime matters.
+When I'm not wiring up AI agents or debugging data pipelines, I'm probably over-engineering my home lab or convincing my fish that uptime matters.
 
-🏠 **Home Lab:** Proxmox server, UniFi networking, Home Assistant orchestrating everything from leak detection to automated garden watering. The goal is fault-tolerant infrastructure I can rebuild from a single config file.
+**Home Lab:** Proxmox cluster, UniFi networking, Home Assistant, Splunk, Cribl — all managed with Terraform, Ansible, and Nix. The goal is fault-tolerant infrastructure I can rebuild from a single `nix build`.
 
-🐠 **Aquariums:** 75-gallon saltwater reef (clownfish, corals, pistol shrimp) + freshwater tanks with custom lighting and wave-maker automations. The fish have better SLOs than most production systems.
+**Aquariums:** 75-gallon saltwater reef (clownfish, corals, pistol shrimp) + freshwater tanks with custom lighting and wave-maker automations. The fish have better SLOs than most production systems.
 
-🤿 **Adventures:** Scuba diving (San Pedro, Belize is my happy place), snowboarding in Michigan and Colorado, hiking, running
+**Adventures:** Scuba diving (San Pedro, Belize is my happy place), snowboarding in Michigan and Colorado, hiking, running.
 
-### Currently Building
+### What I'm Building
 
-- **Home Lab IaC Stack** — Terragrunt/Terraform/Ansible for reproducible infrastructure
-- **Network Segmentation** — Because flat networks are for the reckless
-- **AI-Powered Home Automation** — Making my house smarter than it needs to be
+**AI Development Pipeline** — I point Claude, Gemini, and Copilot at GitHub Issues and they figure out the rest. Multi-model routing with local MLX fallback for when I don't want to burn cloud tokens on a typo fix.
+[ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions) ・ [claude-code-plugins](https://github.com/JacobPEvans/claude-code-plugins) ・ [ai-workflows](https://github.com/JacobPEvans/ai-workflows)
 
-### AI & LLM Obsession
+**AI Observability** — OTEL pipeline tracking every AI coding interaction from IDE to Splunk. If an AI agent touches code, I know about it — usage, cost, performance, all of it.
+[VisiCore_App_for_AI_Observability](https://github.com/JacobPEvans/VisiCore_App_for_AI_Observability) ・ [cc-edge-copilot-otel](https://github.com/JacobPEvans/cc-edge-copilot-otel) ・ [cc-edge-vscode-io](https://github.com/JacobPEvans/cc-edge-vscode-io)
 
-I'm deep in the AI rabbit hole and loving every minute of it. Current focus areas:
+**Nix Reproducible Everything** — Four repos, one goal: `nix build` and walk away. [nix-darwin](https://github.com/JacobPEvans/nix-darwin) for macOS, [nix-ai](https://github.com/JacobPEvans/nix-ai) for AI tooling, [nix-home](https://github.com/JacobPEvans/nix-home) for dev environment, [nix-devenv](https://github.com/JacobPEvans/nix-devenv) for project shells.
 
-- **Prompt Engineering** — Crafting system prompts, building multi-turn workflows, and optimizing for specific use cases
-- **Agentic Workflows** — Building AI systems that reason, plan, and execute multi-step tasks without hand-holding
-- **Claude Code & Gemini CLI** — Daily drivers for AI-assisted development; I've built custom skills, hooks, and integrations for both
-- **Multi-Model Orchestration** — Routing tasks to the right model (Opus for architecture, Sonnet for speed, local models for privacy)
-- **RAG & Context Engineering** — Building retrieval systems that actually work in production
+**Local LLM Inference** — Running MLX-native models on Apple Silicon because why pay for tokens when you have 128GB of unified memory? Currently on M4 MacBook Pro, eyeing the Mac Studio.
+[nix-ai](https://github.com/JacobPEvans/nix-ai) (MLX module)
+
+**RAG & Context Engineering** — Qdrant on the home lab feeding context into AI workflows. The goal: AI that actually knows your codebase instead of hallucinating import paths.
+
+**Home Lab IaC** — Proxmox cluster, 30+ repos, everything in code. Terraform provisions, Ansible configures, Renovate keeps deps fresh, release-please handles versions.
+[terraform-proxmox](https://github.com/JacobPEvans/terraform-proxmox) ・ [ansible-proxmox](https://github.com/JacobPEvans/ansible-proxmox) ・ [.github](https://github.com/JacobPEvans/.github) ・ [secrets-sync](https://github.com/JacobPEvans/secrets-sync)
 
 ### GitHub Metrics
 
@@ -116,7 +137,6 @@ I'm deep in the AI rabbit hole and loving every minute of it. Current focus area
 
 <p align="center">
   <a href="https://github.com/yoshi389111/github-profile-3d-contrib" target="_blank" rel="noopener noreferrer" aria-label="3D contribution calendar generator">
-    <img src="https://raw.githubusercontent.com/JacobPEvans/JacobPEvans/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D visualization of Jacob's GitHub contribution calendar rendered as an isometric cityscape where building heights represent daily commit counts" />
+    <img src="https://raw.githubusercontent.com/JacobPEvans/JacobPEvans/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D visualization of GitHub contribution calendar rendered as an isometric cityscape where building heights represent daily commit counts" />
   </a>
 </p>
-
