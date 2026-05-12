@@ -41,9 +41,12 @@ module.exports = async ({ github, context, core }) => {
     core.info(`Directory does not exist, nothing to commit: ${directory}`);
     return;
   } else {
+    // Sort for deterministic tree construction (readdirSync filesystem order
+    // varies across runs; sorting avoids spurious tree-SHA churn).
     files = fs.readdirSync(directory)
       .map((name) => path.join(directory, name))
-      .filter((p) => fs.statSync(p).isFile());
+      .filter((p) => fs.statSync(p).isFile())
+      .sort();
   }
 
   if (files.length === 0) {
@@ -53,14 +56,25 @@ module.exports = async ({ github, context, core }) => {
 
   const { owner, repo } = context.repo;
 
-  const { data: ref } = await github.rest.git.getRef({
-    owner, repo, ref: `heads/${branch}`,
-  });
-  const parentSha = ref.object.sha;
-
-  const { data: parentCommit } = await github.rest.git.getCommit({
-    owner, repo, commit_sha: parentSha,
-  });
+  // Fetch the parent ref/commit if the branch exists. If it doesn't (404),
+  // we'll create the branch fresh with an initial commit and no parent.
+  let parentSha = null;
+  let baseTreeSha = null;
+  try {
+    const { data: ref } = await github.rest.git.getRef({
+      owner, repo, ref: `heads/${branch}`,
+    });
+    parentSha = ref.object.sha;
+    const { data: parentCommit } = await github.rest.git.getCommit({
+      owner, repo, commit_sha: parentSha,
+    });
+    baseTreeSha = parentCommit.tree.sha;
+  } catch (err) {
+    if (err.status !== 404) {
+      throw err;
+    }
+    core.info(`Branch ${branch} does not exist; creating with initial commit`);
+  }
 
   const tree = [];
   for (const filePath of files) {
@@ -87,22 +101,30 @@ module.exports = async ({ github, context, core }) => {
 
   const { data: newTree } = await github.rest.git.createTree({
     owner, repo,
-    base_tree: parentCommit.tree.sha,
+    ...(baseTreeSha ? { base_tree: baseTreeSha } : {}),
     tree,
   });
 
-  if (newTree.sha === parentCommit.tree.sha) {
+  if (baseTreeSha && newTree.sha === baseTreeSha) {
     core.info('No content changes, skipping commit');
     return;
   }
 
   const { data: commit } = await github.rest.git.createCommit({
-    owner, repo, message, tree: newTree.sha, parents: [parentSha],
+    owner, repo, message,
+    tree: newTree.sha,
+    parents: parentSha ? [parentSha] : [],
   });
 
-  await github.rest.git.updateRef({
-    owner, repo, ref: `heads/${branch}`, sha: commit.sha,
-  });
+  if (parentSha) {
+    await github.rest.git.updateRef({
+      owner, repo, ref: `heads/${branch}`, sha: commit.sha,
+    });
+  } else {
+    await github.rest.git.createRef({
+      owner, repo, ref: `refs/heads/${branch}`, sha: commit.sha,
+    });
+  }
 
-  core.info(`Created signed commit ${commit.sha.slice(0, 8)} on ${branch}: ${message}`);
+  core.info(`Created commit ${commit.sha.slice(0, 8)} on ${branch}: ${message}`);
 };

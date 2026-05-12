@@ -42,7 +42,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Commit signed via Contents API
+      - name: Commit signed via Git Data API
         if: github.event_name != 'pull_request'
         uses: actions/github-script@v9
         env:
