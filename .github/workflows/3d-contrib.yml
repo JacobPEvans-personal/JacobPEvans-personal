@@ -16,6 +16,7 @@ concurrency:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   generate:
@@ -41,13 +42,24 @@ jobs:
           GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Commit via ghcommit-action (GitHub-signed)
+      - name: Open signed PR to output
         if: github.event_name != 'pull_request'
-        uses: planetscale/ghcommit-action@25309d8005ac7c3bcd61d3fe19b69e0fe47dbdde # v0.2.20
-        env:
-          GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
+        id: cpr
+        uses: peter-evans/create-pull-request@v8
         with:
-          commit_message: "chore: update 3D contribution calendar"
-          repo: ${{ github.repository }}
-          branch: output
-          file_pattern: 'profile-3d-contrib/*'
+          token: ${{ steps.app-token.outputs.token }}
+          base: output
+          branch: bot/3d-contrib-update
+          delete-branch: true
+          sign-commits: true
+          commit-message: "chore: update 3D contribution calendar"
+          title: "chore: update 3D contribution calendar"
+          body: "Automated daily 3D contribution calendar refresh."
+          add-paths: profile-3d-contrib/
+
+      - name: Squash-merge the PR
+        if: github.event_name != 'pull_request' && steps.cpr.outputs.pull-request-operation == 'created'
+        env:
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+          PR: ${{ steps.cpr.outputs.pull-request-number }}
+        run: gh pr merge "$PR" -R ${{ github.repository }} --squash --delete-branch

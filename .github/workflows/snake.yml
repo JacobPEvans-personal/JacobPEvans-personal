@@ -16,6 +16,7 @@ concurrency:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   generate:
@@ -43,13 +44,24 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Commit via ghcommit-action (GitHub-signed)
+      - name: Open signed PR to output
         if: github.event_name != 'pull_request'
-        uses: planetscale/ghcommit-action@25309d8005ac7c3bcd61d3fe19b69e0fe47dbdde # v0.2.20
-        env:
-          GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
+        id: cpr
+        uses: peter-evans/create-pull-request@v8
         with:
-          commit_message: "chore: update snake animation"
-          repo: ${{ github.repository }}
-          branch: output
-          file_pattern: 'dist/*.svg'
+          token: ${{ steps.app-token.outputs.token }}
+          base: output
+          branch: bot/snake-update
+          delete-branch: true
+          sign-commits: true
+          commit-message: "chore: update snake animation"
+          title: "chore: update snake animation"
+          body: "Automated daily snake animation refresh."
+          add-paths: dist/
+
+      - name: Squash-merge the PR
+        if: github.event_name != 'pull_request' && steps.cpr.outputs.pull-request-operation == 'created'
+        env:
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+          PR: ${{ steps.cpr.outputs.pull-request-number }}
+        run: gh pr merge "$PR" -R ${{ github.repository }} --squash --delete-branch
