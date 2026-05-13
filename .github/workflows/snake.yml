@@ -16,6 +16,7 @@ concurrency:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   generate:
@@ -43,22 +44,24 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Configure Git for App
+      - name: Open signed PR to output
         if: github.event_name != 'pull_request'
-        env:
-          APP_ID: ${{ vars.GH_APP_ID }}
-        run: |
-          git config user.name "JacobPEvans-github-actions[bot]"
-          git config user.email "${APP_ID}+JacobPEvans-github-actions[bot]@users.noreply.github.com"
+        id: cpr
+        uses: peter-evans/create-pull-request@v8
+        with:
+          token: ${{ steps.app-token.outputs.token }}
+          base: output
+          branch: bot/snake-update
+          delete-branch: true
+          sign-commits: true
+          commit-message: "chore: update snake animation"
+          title: "chore: update snake animation"
+          body: "Automated daily snake animation refresh."
+          add-paths: dist/
 
-      - name: Commit and Push
-        if: github.event_name != 'pull_request'
-        run: |
-          git add dist/
-          if git diff --staged --quiet; then
-            echo "No changes to commit, skipping push."
-          else
-            git commit -m "chore: update snake animation"
-            git pull --rebase origin output
-            git push origin output
-          fi
+      - name: Squash-merge the PR
+        if: github.event_name != 'pull_request' && steps.cpr.outputs.pull-request-operation == 'created'
+        env:
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+          PR: ${{ steps.cpr.outputs.pull-request-number }}
+        run: gh pr merge "$PR" -R ${{ github.repository }} --squash --delete-branch

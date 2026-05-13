@@ -16,6 +16,7 @@ concurrency:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   generate:
@@ -41,22 +42,24 @@ jobs:
           GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Configure Git for App
+      - name: Open signed PR to output
         if: github.event_name != 'pull_request'
-        env:
-          APP_ID: ${{ vars.GH_APP_ID }}
-        run: |
-          git config user.name "JacobPEvans-github-actions[bot]"
-          git config user.email "${APP_ID}+JacobPEvans-github-actions[bot]@users.noreply.github.com"
+        id: cpr
+        uses: peter-evans/create-pull-request@v8
+        with:
+          token: ${{ steps.app-token.outputs.token }}
+          base: output
+          branch: bot/3d-contrib-update
+          delete-branch: true
+          sign-commits: true
+          commit-message: "chore: update 3D contribution calendar"
+          title: "chore: update 3D contribution calendar"
+          body: "Automated daily 3D contribution calendar refresh."
+          add-paths: profile-3d-contrib/
 
-      - name: Commit and Push
-        if: github.event_name != 'pull_request'
-        run: |
-          git add profile-3d-contrib/
-          if git diff --staged --quiet; then
-            echo "No changes to commit, skipping push."
-          else
-            git commit -m "chore: update 3D contribution calendar"
-            git pull --rebase origin output
-            git push origin output
-          fi
+      - name: Squash-merge the PR
+        if: github.event_name != 'pull_request' && steps.cpr.outputs.pull-request-operation == 'created'
+        env:
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+          PR: ${{ steps.cpr.outputs.pull-request-number }}
+        run: gh pr merge "$PR" -R ${{ github.repository }} --squash --delete-branch
