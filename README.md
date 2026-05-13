@@ -10,6 +10,11 @@
   <a href="https://github.com/JacobPEvans" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/JacobPEvans/JacobPEvans/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License: Apache 2.0" /></a>
+  <a href="https://github.com/JacobPEvans/JacobPEvans/actions/workflows/ci-gate.yml"><img src="https://github.com/JacobPEvans/JacobPEvans/actions/workflows/ci-gate.yml/badge.svg" alt="CI Gate" /></a>
+</p>
+
 ---
 
 <p align="center">
