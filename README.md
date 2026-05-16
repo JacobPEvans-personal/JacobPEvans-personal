@@ -1,19 +1,19 @@
 <div align="center">
-  <a href="https://docs.jacobpevans.com" target="_blank" rel="noopener noreferrer" aria-label="Full architecture documentation at docs.jacobpevans.com">
-    <img src="https://img.shields.io/badge/Documentation-docs.jacobpevans.com-4FB3A9?style=for-the-badge&labelColor=0B1D2A" alt="Read the full architecture documentation at docs.jacobpevans.com" />
-  </a>
-</div>
-
-<div align="center">
   <a href="https://git.io/typing-svg" aria-label="Typing animation">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=48&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=70&lines=Claude+Whisperer;Model+Wrangler;Automator;Data+Diver;Toil+Terminator;Nix+Evangelist;Home+Lab+Addict;Recovering+CS+Major;Reef+Keeper" alt="Rotating taglines: Claude Whisperer, Model Wrangler, Automator, Data Diver, Toil Terminator, Nix Evangelist, Home Lab Addict, Recovering CS Major, Reef Keeper" />
   </a>
 </div>
 
 <p align="center">
-  <a href="https://jacobpevans.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Website-58A6FF?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/JacobPaulEvans/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/JacobPEvans" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/JacobPaulEvans/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="56" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/JacobPEvans" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="56" /></a>
+</p>
+
+<p align="center">
+  <a href="https://docs.jacobpevans.com" target="_blank" rel="noopener noreferrer" aria-label="Full architecture documentation at docs.jacobpevans.com">
+    <img src="https://img.shields.io/badge/Documentation-docs.jacobpevans.com-4FB3A9?style=for-the-badge&labelColor=0B1D2A" alt="Read the full architecture documentation at docs.jacobpevans.com" height="56" />
+  </a>
 </p>
 
 ---
@@ -115,17 +115,17 @@ When I'm not wiring up AI agents or debugging data pipelines, I'm probably over-
 
 ### What I'm Building
 
-**AI Development Pipeline** — Multi-model routing across Claude, Gemini, Copilot, and local MLX. → [Full breakdown](https://docs.jacobpevans.com/ai-development/overview)
+[**AI Development Pipeline**](https://docs.jacobpevans.com/ai-development/overview) — Multi-model routing across Claude, Gemini, Copilot, and local MLX.
 
-**AI Observability** — OTEL telemetry from every AI coding tool to Splunk via Cribl. If an AI touched code, there's a trace. → [Full breakdown](https://docs.jacobpevans.com/observability/overview)
+[**AI Observability**](https://docs.jacobpevans.com/observability/overview) — OTEL telemetry from every AI coding tool to Splunk via Cribl. If an AI touched code, there's a trace.
 
-**Nix Reproducible Everything** — Four flakes (nix-darwin, nix-ai, nix-home, nix-devenv). `nix build` and walk away. → [Full breakdown](https://docs.jacobpevans.com/nix/overview)
+[**Nix Reproducible Everything**](https://docs.jacobpevans.com/nix/overview) — Four flakes (nix-darwin, nix-ai, nix-home, nix-devenv). `nix build` and walk away.
 
-**Home Lab IaC** — Proxmox + Terraform + Ansible + Nix. Fault-tolerant infrastructure from one command. → [Full breakdown](https://docs.jacobpevans.com/infrastructure/overview)
+[**Home Lab IaC**](https://docs.jacobpevans.com/infrastructure/overview) — Proxmox + Terraform + Ansible + Nix. Fault-tolerant infrastructure from one command.
 
-**Local LLM Inference** — MLX-native models on Apple Silicon. Why pay for cloud tokens with 128GB of unified memory? → [Full breakdown](https://docs.jacobpevans.com/ai-development/overview)
+[**Local LLM Inference**](https://docs.jacobpevans.com/ai-development/overview) — MLX-native models on Apple Silicon. Why pay for cloud tokens with 128GB of unified memory?
 
-**RAG & Context Engineering** — Qdrant feeding context into AI workflows. AI that actually knows your codebase. → [Full breakdown](https://docs.jacobpevans.com/ai-development/overview)
+[**RAG & Context Engineering**](https://docs.jacobpevans.com/ai-development/overview) — Qdrant feeding context into AI workflows. AI that actually knows your codebase.
 
 → Full architecture across ~40 public repos: **[docs.jacobpevans.com](https://docs.jacobpevans.com)**
 
@@ -141,6 +141,6 @@ When I'm not wiring up AI agents or debugging data pipelines, I'm probably over-
 
 <p align="center">
   <a href="https://github.com/yoshi389111/github-profile-3d-contrib" target="_blank" rel="noopener noreferrer" aria-label="3D contribution calendar generator">
-    <img src="https://raw.githubusercontent.com/JacobPEvans/JacobPEvans/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D visualization of GitHub contribution calendar rendered as an isometric cityscape where building heights represent daily commit counts" />
+    <img src="https://raw.githubusercontent.com/JacobPEvans/JacobPEvans/output/profile-3d-contrib/profile-night-green.svg" alt="3D visualization of GitHub contribution calendar rendered as an isometric cityscape where building heights represent daily commit counts, themed in night-green to match the docs.jacobpevans.com Reef Green identity" />
   </a>
 </p>

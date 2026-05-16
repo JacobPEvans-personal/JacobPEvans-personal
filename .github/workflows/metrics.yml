@@ -37,6 +37,10 @@ jobs:
           base: header, activity, community, repositories
           config_timezone: America/Detroit
 
+          # Reef Green identity (matches docs.jacobpevans.com)
+          # format: text;text;bg;link;border;icon
+          base_colors: 4FB3A9;F4EFE6;0B1D2A;4FB3A9;2F7E78;E06B4A
+
           # Recent activity
           plugin_activity: yes
           plugin_activity_limit: 5
