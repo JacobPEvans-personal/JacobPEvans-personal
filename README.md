@@ -1,4 +1,10 @@
 <div align="center">
+  <a href="https://docs.jacobpevans.com" target="_blank" rel="noopener noreferrer" aria-label="Full architecture documentation at docs.jacobpevans.com">
+    <img src="https://img.shields.io/badge/Documentation-docs.jacobpevans.com-4FB3A9?style=for-the-badge&labelColor=0B1D2A" alt="Read the full architecture documentation at docs.jacobpevans.com" />
+  </a>
+</div>
+
+<div align="center">
   <a href="https://git.io/typing-svg" aria-label="Typing animation">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=48&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=70&lines=Claude+Whisperer;Model+Wrangler;Automator;Data+Diver;Toil+Terminator;Nix+Evangelist;Home+Lab+Addict;Recovering+CS+Major;Reef+Keeper" alt="Rotating taglines: Claude Whisperer, Model Wrangler, Automator, Data Diver, Toil Terminator, Nix Evangelist, Home Lab Addict, Recovering CS Major, Reef Keeper" />
   </a>
@@ -109,21 +115,19 @@ When I'm not wiring up AI agents or debugging data pipelines, I'm probably over-
 
 ### What I'm Building
 
-**AI Development Pipeline** — I point Claude, Gemini, and Copilot at GitHub Issues and they figure out the rest. Multi-model routing with local MLX fallback for when I don't want to burn cloud tokens on a typo fix.
-[ai-assistant-instructions](https://github.com/JacobPEvans/ai-assistant-instructions) ・ [claude-code-plugins](https://github.com/JacobPEvans/claude-code-plugins) ・ [ai-workflows](https://github.com/JacobPEvans/ai-workflows)
+**AI Development Pipeline** — Multi-model routing across Claude, Gemini, Copilot, and local MLX. → [Full breakdown](https://docs.jacobpevans.com/ai-development/overview)
 
-**AI Observability** — OTEL pipeline tracking every AI coding interaction from IDE to Splunk. If an AI agent touches code, I know about it — usage, cost, performance, all of it.
-[VisiCore_App_for_AI_Observability](https://github.com/JacobPEvans/VisiCore_App_for_AI_Observability) ・ [cc-edge-copilot-otel](https://github.com/JacobPEvans/cc-edge-copilot-otel) ・ [cc-edge-vscode-io](https://github.com/JacobPEvans/cc-edge-vscode-io)
+**AI Observability** — OTEL telemetry from every AI coding tool to Splunk via Cribl. If an AI touched code, there's a trace. → [Full breakdown](https://docs.jacobpevans.com/observability/overview)
 
-**Nix Reproducible Everything** — Four repos, one goal: `nix build` and walk away. [nix-darwin](https://github.com/JacobPEvans/nix-darwin) for macOS, [nix-ai](https://github.com/JacobPEvans/nix-ai) for AI tooling, [nix-home](https://github.com/JacobPEvans/nix-home) for dev environment, [nix-devenv](https://github.com/JacobPEvans/nix-devenv) for project shells.
+**Nix Reproducible Everything** — Four flakes (nix-darwin, nix-ai, nix-home, nix-devenv). `nix build` and walk away. → [Full breakdown](https://docs.jacobpevans.com/nix/overview)
 
-**Local LLM Inference** — Running MLX-native models on Apple Silicon because why pay for tokens when you have 128GB of unified memory? Currently on M4 MacBook Pro, eyeing the Mac Studio.
-[nix-ai](https://github.com/JacobPEvans/nix-ai) (MLX module)
+**Home Lab IaC** — Proxmox + Terraform + Ansible + Nix. Fault-tolerant infrastructure from one command. → [Full breakdown](https://docs.jacobpevans.com/infrastructure/overview)
 
-**RAG & Context Engineering** — Qdrant on the home lab feeding context into AI workflows. The goal: AI that actually knows your codebase instead of hallucinating import paths.
+**Local LLM Inference** — MLX-native models on Apple Silicon. Why pay for cloud tokens with 128GB of unified memory?
 
-**Home Lab IaC** — Proxmox cluster, 30+ repos, everything in code. Terraform provisions, Ansible configures, Renovate keeps deps fresh, release-please handles versions.
-[terraform-proxmox](https://github.com/JacobPEvans/terraform-proxmox) ・ [ansible-proxmox](https://github.com/JacobPEvans/ansible-proxmox) ・ [.github](https://github.com/JacobPEvans/.github) ・ [secrets-sync](https://github.com/JacobPEvans/secrets-sync)
+**RAG & Context Engineering** — Qdrant feeding context into AI workflows. AI that actually knows your codebase.
+
+→ Full architecture across ~40 public repos: **[docs.jacobpevans.com](https://docs.jacobpevans.com)**
 
 ### GitHub Metrics
 
