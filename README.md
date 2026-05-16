@@ -123,9 +123,9 @@ When I'm not wiring up AI agents or debugging data pipelines, I'm probably over-
 
 **Home Lab IaC** — Proxmox + Terraform + Ansible + Nix. Fault-tolerant infrastructure from one command. → [Full breakdown](https://docs.jacobpevans.com/infrastructure/overview)
 
-**Local LLM Inference** — MLX-native models on Apple Silicon. Why pay for cloud tokens with 128GB of unified memory?
+**Local LLM Inference** — MLX-native models on Apple Silicon. Why pay for cloud tokens with 128GB of unified memory? → [Full breakdown](https://docs.jacobpevans.com/ai-development/overview)
 
-**RAG & Context Engineering** — Qdrant feeding context into AI workflows. AI that actually knows your codebase.
+**RAG & Context Engineering** — Qdrant feeding context into AI workflows. AI that actually knows your codebase. → [Full breakdown](https://docs.jacobpevans.com/ai-development/overview)
 
 → Full architecture across ~40 public repos: **[docs.jacobpevans.com](https://docs.jacobpevans.com)**
 
