@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg" aria-label="Typing animation">
+  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer" aria-label="Typing animation">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=48&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=70&lines=Claude+Whisperer;Model+Wrangler;Automator;Data+Diver;Toil+Terminator;Nix+Evangelist;Home+Lab+Addict;Recovering+CS+Major;Reef+Keeper" alt="Rotating taglines: Claude Whisperer, Model Wrangler, Automator, Data Diver, Toil Terminator, Nix Evangelist, Home Lab Addict, Recovering CS Major, Reef Keeper" />
   </a>
 </div>
@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://docs.jacobpevans.com" target="_blank" rel="noopener noreferrer" aria-label="Full architecture documentation at docs.jacobpevans.com">
-    <img src="https://img.shields.io/badge/Documentation-docs.jacobpevans.com-4FB3A9?style=for-the-badge&labelColor=0B1D2A" alt="Read the full architecture documentation at docs.jacobpevans.com" height="56" />
+  <a href="https://docs.jacobpevans.com" target="_blank" rel="noopener noreferrer" aria-label="docs.jacobpevans.com - full architecture documentation">
+    <img src="https://img.shields.io/badge/DOCS.JACOBPEVANS.COM-4FB3A9?style=for-the-badge" alt="docs.jacobpevans.com" height="112" />
   </a>
 </p>
 
@@ -128,19 +128,19 @@ When I'm not wiring up AI agents or debugging data pipelines, I'm probably over-
 
 ### What I'm Building
 
-[**AI Development Pipeline**](https://docs.jacobpevans.com/ai-development/overview) — Multi-model routing across Claude, Gemini, Copilot, and local MLX.
+<a href="https://docs.jacobpevans.com/ai-development/overview" target="_blank" rel="noopener noreferrer">**AI Development Pipeline**</a> — Multi-model routing across Claude, Gemini, Copilot, and local MLX.
 
-[**AI Observability**](https://docs.jacobpevans.com/observability/overview) — OTEL telemetry from every AI coding tool to Splunk via Cribl. If an AI touched code, there's a trace.
+<a href="https://docs.jacobpevans.com/observability/overview" target="_blank" rel="noopener noreferrer">**AI Observability**</a> — OTEL telemetry from every AI coding tool to Splunk via Cribl. If an AI touched code, there's a trace.
 
-[**Nix Reproducible Everything**](https://docs.jacobpevans.com/nix/overview) — Four flakes (nix-darwin, nix-ai, nix-home, nix-devenv). `nix build` and walk away.
+<a href="https://docs.jacobpevans.com/nix/overview" target="_blank" rel="noopener noreferrer">**Nix Reproducible Everything**</a> — Four flakes (nix-darwin, nix-ai, nix-home, nix-devenv). `nix build` and walk away.
 
-[**Home Lab IaC**](https://docs.jacobpevans.com/infrastructure/overview) — Proxmox + Terraform + Ansible + Nix. Fault-tolerant infrastructure from one command.
+<a href="https://docs.jacobpevans.com/infrastructure/overview" target="_blank" rel="noopener noreferrer">**Home Lab IaC**</a> — Proxmox + Terraform + Ansible + Nix. Fault-tolerant infrastructure from one command.
 
-[**Local LLM Inference**](https://docs.jacobpevans.com/ai-development/overview) — MLX-native models on Apple Silicon. Why pay for cloud tokens with 128GB of unified memory?
+<a href="https://docs.jacobpevans.com/ai-development/overview" target="_blank" rel="noopener noreferrer">**Local LLM Inference**</a> — MLX-native models on Apple Silicon. Why pay for cloud tokens with 128GB of unified memory?
 
-[**RAG & Context Engineering**](https://docs.jacobpevans.com/ai-development/overview) — Qdrant feeding context into AI workflows. AI that actually knows your codebase.
+<a href="https://docs.jacobpevans.com/ai-development/overview" target="_blank" rel="noopener noreferrer">**RAG & Context Engineering**</a> — Qdrant feeding context into AI workflows. AI that actually knows your codebase.
 
-→ Full architecture across ~40 public repos: **[docs.jacobpevans.com](https://docs.jacobpevans.com)**
+→ Full architecture across ~40 public repos: **<a href="https://docs.jacobpevans.com" target="_blank" rel="noopener noreferrer">docs.jacobpevans.com</a>**
 
 ### GitHub Metrics
 
