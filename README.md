@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg" aria-label="Typing animation">
+  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer" aria-label="Typing animation">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=48&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=70&lines=Claude+Whisperer;Model+Wrangler;Automator;Data+Diver;Toil+Terminator;Nix+Evangelist;Home+Lab+Addict;Recovering+CS+Major;Reef+Keeper" alt="Rotating taglines: Claude Whisperer, Model Wrangler, Automator, Data Diver, Toil Terminator, Nix Evangelist, Home Lab Addict, Recovering CS Major, Reef Keeper" />
   </a>
 </div>
@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://docs.jacobpevans.com" target="_blank" rel="noopener noreferrer" aria-label="Full architecture documentation at docs.jacobpevans.com">
-    <img src="https://img.shields.io/badge/Documentation-docs.jacobpevans.com-4FB3A9?style=for-the-badge&labelColor=0B1D2A" alt="Read the full architecture documentation at docs.jacobpevans.com" height="56" />
+  <a href="https://docs.jacobpevans.com" target="_blank" rel="noopener noreferrer" aria-label="docs.jacobpevans.com - full architecture documentation">
+    <img src="https://img.shields.io/badge/DOCS.JACOBPEVANS.COM-4FB3A9?style=for-the-badge" alt="docs.jacobpevans.com" height="112" />
   </a>
 </p>
 
@@ -77,26 +77,37 @@ The goal: file a GitHub Issue, grab coffee, come back to a PR that's been implem
 Humans decide *what* to build. AI agents handle the *how*. Automation runs the boring parts. A human gives the final sign-off. Claude, Gemini, Copilot, and local MLX models each do what they're best at — the right model for the right job instead of throwing everything at one.
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#4FB3A9','primaryTextColor':'#0B1D2A','primaryBorderColor':'#2F7E78','lineColor':'#E06B4A','secondaryColor':'#102937','tertiaryColor':'#0B1D2A','clusterBkg':'transparent','clusterBorder':'#4FB3A9','fontFamily':'Geist','fontSize':'16px'}}}%%
 flowchart LR
-    subgraph Human["Human"]
-        direction TB
-        H1["Roadmap"]
-        H2["GitHub Issues"]
-        H3["PR Review"]
-    end
-    subgraph AI["AI Agents"]
-        direction TB
-        A1["Claude / Gemini / Copilot"]
-        A2["Code"]
-        A3["AI Code Review"]
-    end
-    subgraph Auto["Automation"]
-        direction TB
-        T1["CI / Testing"]
-        T2["Lint & Validate"]
-        T3["Ship It"]
-    end
-    H1 --> H2 --> A1 --> A2 --> T1 --> T2 --> A3 --> H3 --> T3
+  subgraph Human["Human"]
+    direction TB
+    H1(["Roadmap"])
+    H2(["GitHub Issues"])
+    H3(["PR Review"])
+  end
+  subgraph AI["AI Agents"]
+    direction TB
+    A1(["Claude / Gemini / Copilot"])
+    A2(["Code"])
+    A3(["AI Code Review"])
+  end
+  subgraph Auto["Automation"]
+    direction TB
+    T1(["CI / Testing"])
+    T2(["Lint & Validate"])
+    T3(["Ship It"])
+  end
+  H1 --> H2 --> A1 --> A2 --> T1 --> T2 --> A3 --> H3 --> T3
+
+  classDef human fill:#4FB3A9,stroke:#2F7E78,stroke-width:2px,color:#0B1D2A
+  classDef ai fill:#E06B4A,stroke:#C25638,stroke-width:2px,color:#0B1D2A
+  classDef auto fill:#2F7E78,stroke:#4FB3A9,stroke-width:2px,color:#F4EFE6
+
+  class H1,H2,H3 human
+  class A1,A2,A3 ai
+  class T1,T2,T3 auto
+
+  linkStyle default stroke:#E06B4A,stroke-width:3px
 ```
 
 ### About Me
@@ -115,19 +126,19 @@ When I'm not wiring up AI agents or debugging data pipelines, I'm probably over-
 
 ### What I'm Building
 
-[**AI Development Pipeline**](https://docs.jacobpevans.com/ai-development/overview) — Multi-model routing across Claude, Gemini, Copilot, and local MLX.
+<a href="https://docs.jacobpevans.com/ai-development/overview" target="_blank" rel="noopener noreferrer">**AI Development Pipeline**</a> — Multi-model routing across Claude, Gemini, Copilot, and local MLX.
 
-[**AI Observability**](https://docs.jacobpevans.com/observability/overview) — OTEL telemetry from every AI coding tool to Splunk via Cribl. If an AI touched code, there's a trace.
+<a href="https://docs.jacobpevans.com/observability/overview" target="_blank" rel="noopener noreferrer">**AI Observability**</a> — OTEL telemetry from every AI coding tool to Splunk via Cribl. If an AI touched code, there's a trace.
 
-[**Nix Reproducible Everything**](https://docs.jacobpevans.com/nix/overview) — Four flakes (nix-darwin, nix-ai, nix-home, nix-devenv). `nix build` and walk away.
+<a href="https://docs.jacobpevans.com/nix/overview" target="_blank" rel="noopener noreferrer">**Nix Reproducible Everything**</a> — Four flakes (nix-darwin, nix-ai, nix-home, nix-devenv). `nix build` and walk away.
 
-[**Home Lab IaC**](https://docs.jacobpevans.com/infrastructure/overview) — Proxmox + Terraform + Ansible + Nix. Fault-tolerant infrastructure from one command.
+<a href="https://docs.jacobpevans.com/infrastructure/overview" target="_blank" rel="noopener noreferrer">**Home Lab IaC**</a> — Proxmox + Terraform + Ansible + Nix. Fault-tolerant infrastructure from one command.
 
-[**Local LLM Inference**](https://docs.jacobpevans.com/ai-development/overview) — MLX-native models on Apple Silicon. Why pay for cloud tokens with 128GB of unified memory?
+<a href="https://docs.jacobpevans.com/ai-development/overview" target="_blank" rel="noopener noreferrer">**Local LLM Inference**</a> — MLX-native models on Apple Silicon. Why pay for cloud tokens with 128GB of unified memory?
 
-[**RAG & Context Engineering**](https://docs.jacobpevans.com/ai-development/overview) — Qdrant feeding context into AI workflows. AI that actually knows your codebase.
+<a href="https://docs.jacobpevans.com/ai-development/overview" target="_blank" rel="noopener noreferrer">**RAG & Context Engineering**</a> — Qdrant feeding context into AI workflows. AI that actually knows your codebase.
 
-→ Full architecture across ~40 public repos: **[docs.jacobpevans.com](https://docs.jacobpevans.com)**
+→ Full architecture across ~40 public repos: **<a href="https://docs.jacobpevans.com" target="_blank" rel="noopener noreferrer">docs.jacobpevans.com</a>**
 
 ### GitHub Metrics
 
@@ -141,6 +152,6 @@ When I'm not wiring up AI agents or debugging data pipelines, I'm probably over-
 
 <p align="center">
   <a href="https://github.com/yoshi389111/github-profile-3d-contrib" target="_blank" rel="noopener noreferrer" aria-label="3D contribution calendar generator">
-    <img src="https://raw.githubusercontent.com/JacobPEvans/JacobPEvans/output/profile-3d-contrib/profile-night-green.svg" alt="3D visualization of GitHub contribution calendar rendered as an isometric cityscape where building heights represent daily commit counts, themed in night-green to match the docs.jacobpevans.com Reef Green identity" />
+    <img src="https://raw.githubusercontent.com/JacobPEvans/JacobPEvans/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D visualization of GitHub contribution calendar rendered as an isometric cityscape where building heights represent daily commit counts" />
   </a>
 </p>
