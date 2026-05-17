@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://docs.jacobpevans.com" target="_blank" rel="noopener noreferrer" aria-label="docs.jacobpevans.com - full architecture documentation">
-    <img src="https://img.shields.io/badge/JACOBPEVANS.COM-4FB3A9?style=for-the-badge" alt="jacobpevans.com" width="50%" /></a>
+    <img src="https://img.shields.io/badge/JACOBPEVANS.COM-4FB3A9?style=for-the-badge" alt="jacobpevans.com" width="400" /></a>
 </p>
 
 ---
