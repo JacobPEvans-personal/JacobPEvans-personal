@@ -99,15 +99,13 @@ flowchart LR
   end
   H1 --> H2 --> A1 --> A2 --> T1 --> T2 --> A3 --> H3 --> T3
 
-  style H1 fill:#4FB3A9,stroke:#2F7E78,stroke-width:2px,color:#0B1D2A
-  style H2 fill:#4FB3A9,stroke:#2F7E78,stroke-width:2px,color:#0B1D2A
-  style H3 fill:#4FB3A9,stroke:#2F7E78,stroke-width:2px,color:#0B1D2A
-  style A1 fill:#E06B4A,stroke:#C25638,stroke-width:2px,color:#0B1D2A
-  style A2 fill:#E06B4A,stroke:#C25638,stroke-width:2px,color:#0B1D2A
-  style A3 fill:#E06B4A,stroke:#C25638,stroke-width:2px,color:#0B1D2A
-  style T1 fill:#2F7E78,stroke:#4FB3A9,stroke-width:2px,color:#F4EFE6
-  style T2 fill:#2F7E78,stroke:#4FB3A9,stroke-width:2px,color:#F4EFE6
-  style T3 fill:#2F7E78,stroke:#4FB3A9,stroke-width:2px,color:#F4EFE6
+  classDef human fill:#4FB3A9,stroke:#2F7E78,stroke-width:2px,color:#0B1D2A
+  classDef ai fill:#E06B4A,stroke:#C25638,stroke-width:2px,color:#0B1D2A
+  classDef auto fill:#2F7E78,stroke:#4FB3A9,stroke-width:2px,color:#F4EFE6
+
+  class H1,H2,H3 human
+  class A1,A2,A3 ai
+  class T1,T2,T3 auto
 
   linkStyle default stroke:#E06B4A,stroke-width:3px
 ```
