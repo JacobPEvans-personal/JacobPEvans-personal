@@ -77,26 +77,39 @@ The goal: file a GitHub Issue, grab coffee, come back to a PR that's been implem
 Humans decide *what* to build. AI agents handle the *how*. Automation runs the boring parts. A human gives the final sign-off. Claude, Gemini, Copilot, and local MLX models each do what they're best at — the right model for the right job instead of throwing everything at one.
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#4FB3A9','primaryTextColor':'#0B1D2A','primaryBorderColor':'#2F7E78','lineColor':'#E06B4A','secondaryColor':'#102937','tertiaryColor':'#0B1D2A','clusterBkg':'transparent','clusterBorder':'#4FB3A9','fontFamily':'Geist','fontSize':'16px'}}}%%
 flowchart LR
-    subgraph Human["Human"]
-        direction TB
-        H1["Roadmap"]
-        H2["GitHub Issues"]
-        H3["PR Review"]
-    end
-    subgraph AI["AI Agents"]
-        direction TB
-        A1["Claude / Gemini / Copilot"]
-        A2["Code"]
-        A3["AI Code Review"]
-    end
-    subgraph Auto["Automation"]
-        direction TB
-        T1["CI / Testing"]
-        T2["Lint & Validate"]
-        T3["Ship It"]
-    end
-    H1 --> H2 --> A1 --> A2 --> T1 --> T2 --> A3 --> H3 --> T3
+  subgraph Human["Human"]
+    direction TB
+    H1(["Roadmap"])
+    H2(["GitHub Issues"])
+    H3(["PR Review"])
+  end
+  subgraph AI["AI Agents"]
+    direction TB
+    A1(["Claude / Gemini / Copilot"])
+    A2(["Code"])
+    A3(["AI Code Review"])
+  end
+  subgraph Auto["Automation"]
+    direction TB
+    T1(["CI / Testing"])
+    T2(["Lint & Validate"])
+    T3(["Ship It"])
+  end
+  H1 --> H2 --> A1 --> A2 --> T1 --> T2 --> A3 --> H3 --> T3
+
+  style H1 fill:#4FB3A9,stroke:#2F7E78,stroke-width:2px,color:#0B1D2A
+  style H2 fill:#4FB3A9,stroke:#2F7E78,stroke-width:2px,color:#0B1D2A
+  style H3 fill:#4FB3A9,stroke:#2F7E78,stroke-width:2px,color:#0B1D2A
+  style A1 fill:#E06B4A,stroke:#C25638,stroke-width:2px,color:#0B1D2A
+  style A2 fill:#E06B4A,stroke:#C25638,stroke-width:2px,color:#0B1D2A
+  style A3 fill:#E06B4A,stroke:#C25638,stroke-width:2px,color:#0B1D2A
+  style T1 fill:#2F7E78,stroke:#4FB3A9,stroke-width:2px,color:#F4EFE6
+  style T2 fill:#2F7E78,stroke:#4FB3A9,stroke-width:2px,color:#F4EFE6
+  style T3 fill:#2F7E78,stroke:#4FB3A9,stroke-width:2px,color:#F4EFE6
+
+  linkStyle default stroke:#E06B4A,stroke-width:3px
 ```
 
 ### About Me
@@ -141,6 +154,6 @@ When I'm not wiring up AI agents or debugging data pipelines, I'm probably over-
 
 <p align="center">
   <a href="https://github.com/yoshi389111/github-profile-3d-contrib" target="_blank" rel="noopener noreferrer" aria-label="3D contribution calendar generator">
-    <img src="https://raw.githubusercontent.com/JacobPEvans/JacobPEvans/output/profile-3d-contrib/profile-night-green.svg" alt="3D visualization of GitHub contribution calendar rendered as an isometric cityscape where building heights represent daily commit counts, themed in night-green to match the docs.jacobpevans.com Reef Green identity" />
+    <img src="https://raw.githubusercontent.com/JacobPEvans/JacobPEvans/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D visualization of GitHub contribution calendar rendered as an isometric cityscape where building heights represent daily commit counts" />
   </a>
 </p>
