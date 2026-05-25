@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer" aria-label="Typing animation">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=48&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=70&lines=Claude+Whisperer;Model+Wrangler;Automator;Data+Diver;Toil+Terminator;Nix+Evangelist;Home+Lab+Addict;Recovering+CS+Major;Reef+Keeper" alt="Rotating taglines: Claude Whisperer, Model Wrangler, Automator, Data Diver, Toil Terminator, Nix Evangelist, Home Lab Addict, Recovering CS Major, Reef Keeper" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=48&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=90&lines=Claude+Whisperer;Model+Wrangler;Automator;Data+Diver;Toil+Terminator;Nix+Evangelist;Home+Lab+Addict;Recovering+CS+Major;Reef+Keeper" alt="Rotating taglines: Claude Whisperer, Model Wrangler, Automator, Data Diver, Toil Terminator, Nix Evangelist, Home Lab Addict, Recovering CS Major, Reef Keeper" />
 </div>
 
 <p align="center">
