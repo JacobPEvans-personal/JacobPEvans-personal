@@ -5,9 +5,8 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/JacobPaulEvans/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/JacobPEvans" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/JacobPaulEvans/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/JacobPEvans/JacobPEvans/main/assets/img/btn-linkedin.svg" alt="LinkedIn" width="195" /></a>
+  <a href="https://github.com/JacobPEvans" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/JacobPEvans/JacobPEvans/main/assets/img/btn-github.svg" alt="GitHub" width="195" /></a>
 </p>
 
 <p align="center">
@@ -25,15 +24,15 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JacobPEvans/JacobPEvans/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JacobPEvans/JacobPEvans/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/JacobPEvans/JacobPEvans/output/github-snake-dark.svg" alt="Animated snake game visualization that traverses across the GitHub contribution graph, with the snake consuming contribution squares as it moves, leaving a trail of empty cells behind" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JacobPEvans/JacobPEvans/output/assets/img/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JacobPEvans/JacobPEvans/output/assets/img/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/JacobPEvans/JacobPEvans/output/assets/img/github-snake-dark.svg" alt="Animated snake game visualization that traverses across the GitHub contribution graph, with the snake consuming contribution squares as it moves, leaving a trail of empty cells behind" />
   </picture>
 </p>
 
 *Building the pipeline where humans set direction and AI handles the rest.*
 
-*Splunk/Cribl consultant by day. Automating myself out of a job by night.*
+*Cribl & Splunk Professional Services Consultant. Automating myself out of a job by night.*
 
 ---
 
