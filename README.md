@@ -5,13 +5,13 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/JacobPaulEvans/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-grey?style=social" alt="LinkedIn" width="195" /></a>
-  <a href="https://github.com/JacobPEvans" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-grey?style=social" alt="GitHub" width="195" /></a>
+  <a href="https://www.linkedin.com/in/JacobPaulEvans/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic" alt="LinkedIn" width="195" /></a>
+  <a href="https://github.com/JacobPEvans" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic" alt="GitHub" width="195" /></a>
 </p>
 
 <p align="center">
   <a href="https://docs.jacobpevans.com" target="_blank" rel="noopener noreferrer" aria-label="docs.jacobpevans.com - full architecture documentation">
-    <img src="https://img.shields.io/badge/JACOBPEVANS.COM-4FB3A9?style=for-the-badge" alt="jacobpevans.com" width="400" /></a>
+    <img src="https://img.shields.io/badge/JACOBPEVANS.COM-4FB3A9?style=plastic" alt="jacobpevans.com" width="400" /></a>
 </p>
 
 ---
