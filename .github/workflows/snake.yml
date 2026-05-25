@@ -41,8 +41,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            assets/img/github-snake.svg
+            assets/img/github-snake-dark.svg?palette=github-dark
 
       - name: Open signed PR to output
         if: github.event_name != 'pull_request'
@@ -57,7 +57,7 @@ jobs:
           commit-message: "chore: update snake animation"
           title: "chore: update snake animation"
           body: "Automated daily snake animation refresh."
-          add-paths: dist/
+          add-paths: assets/img/
 
       - name: Squash-merge the PR
         if: github.event_name != 'pull_request' && steps.cpr.outputs.pull-request-operation == 'created'
