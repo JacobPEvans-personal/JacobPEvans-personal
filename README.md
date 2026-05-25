@@ -5,8 +5,8 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/JacobPaulEvans/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="195" /></a>
-  <a href="https://github.com/JacobPEvans" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="195" /></a>
+  <a href="https://www.linkedin.com/in/JacobPaulEvans/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" width="195" /></a>
+  <a href="https://github.com/JacobPEvans" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=social&logo=github&logoColor=181717" alt="GitHub" width="195" /></a>
 </p>
 
 <p align="center">
