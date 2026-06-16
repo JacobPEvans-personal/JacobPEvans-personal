@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Node / npm (local tooling)
+node_modules/
+npm-debug.log*
+
+# Editor artifacts
+.vscode/
+*.swp
+*.swo
+
+# Local environment
+.env
+.envrc.local
