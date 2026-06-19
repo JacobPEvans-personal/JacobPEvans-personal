@@ -12,6 +12,11 @@
     <img src="https://img.shields.io/badge/JACOBPEVANS.COM-4FB3A9?style=for-the-badge" alt="jacobpevans.com" width="400" height="73" /></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/JacobPEvans-personal/JacobPEvans/actions/workflows/ci-gate.yml" target="_blank" rel="noopener noreferrer"><img src="https://github.com/JacobPEvans-personal/JacobPEvans/actions/workflows/ci-gate.yml/badge.svg" alt="CI Gate" /></a>
+  <a href="https://opensource.org/licenses/Apache-2.0" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License: Apache 2.0" /></a>
+</p>
+
 ---
 
 <p align="center">
