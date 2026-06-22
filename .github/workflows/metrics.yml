@@ -32,7 +32,7 @@ jobs:
         uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           token: ${{ steps.app-token.outputs.token }}
-          user: JacobPEvans
+          user: ${{ github.repository_owner }}
           template: classic
           base: header, activity, community, repositories
           config_timezone: America/Detroit
