@@ -73,13 +73,13 @@ jobs:
     name: Markdown Lint
     needs: changes
     if: needs.changes.outputs.markdown == 'true'
-    uses: JacobPEvans/.github/.github/workflows/_markdown-lint.yml@main
+    uses: JacobPEvans-personal/.github/.github/workflows/_markdown-lint.yml@main
 
   file-size:
     name: File Size
     needs: changes
     if: needs.changes.outputs.markdown == 'true' || needs.changes.outputs.config == 'true'
-    uses: JacobPEvans/.github/.github/workflows/_file-size.yml@main
+    uses: JacobPEvans-personal/.github/.github/workflows/_file-size.yml@main
 
   readme-sections:
     name: README Sections
