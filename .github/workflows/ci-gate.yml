@@ -73,13 +73,13 @@ jobs:
     name: Markdown Lint
     needs: changes
     if: needs.changes.outputs.markdown == 'true'
-    uses: dryvist/.github/.github/workflows/_markdown-lint.yml@main
+    uses: JacobPEvans/.github/.github/workflows/_markdown-lint.yml@04547f75e3c83d5d27fe4ee9561f44c58b607adb # v1.48.0
 
   file-size:
     name: File Size
     needs: changes
     if: needs.changes.outputs.markdown == 'true' || needs.changes.outputs.config == 'true'
-    uses: dryvist/.github/.github/workflows/_file-size.yml@main
+    uses: JacobPEvans/.github/.github/workflows/_file-size.yml@04547f75e3c83d5d27fe4ee9561f44c58b607adb # v1.48.0
 
   readme-sections:
     name: README Sections
